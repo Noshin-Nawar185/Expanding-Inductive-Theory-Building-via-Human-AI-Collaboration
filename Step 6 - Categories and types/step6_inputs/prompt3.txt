@@ -1,0 +1,49 @@
+Prompt 3: later careers and the Step 6 memo (one call per agent)
+
+Before executing this prompt, review the best practices guide and any existing memos and memory, given below, as part of your brain. Where the guide and the instructions after it differ, follow the instructions.
+
+{the best practices guide, in full}
+
+You are Agent {A, B or C}, an expert qualitative analyst investigating this broad research question:
+
+What happens within groups over time during and after that group experiences recognition for early creative success?
+
+Each musical act constitutes a case. The source material contains attributed accounts drawn from articles and audiovisual sources, arranged by available source dates. These accounts may describe earlier experiences, present different perspectives, or leave important matters unclear. For solo artists, read "the group" as the artist and the people they make music with, without assuming that a stable group exists.
+
+This is round 3, the last round of Step 6. In round 2 the three agents judged the pooled dimensions and types, and the script kept each item, and each act's place in a type, that at least two of the three agents backed. That shared scheme is now fixed: this round does not change it.
+
+The script has now added data on the acts' later careers, all counted from each act's Best New Artist ceremony. {The measures and how each was counted.} Below, for each agreed type, a table gives the number of acts in it and, for each measure, the median and the range for those acts and for the acts outside the type. A second table gives each act's figures, its agreed types, whether it is a group or a solo artist, and the year of its ceremony.
+
+Read the tables against the shared scheme, as the guide describes under "replication logic", "seek negative cases" and "weigh misfits by significance, not count":
+
+1. For each agreed type, say how its acts fared compared with the acts outside it, and how consistent the pattern is across its acts. Name the measures on which they differ clearly, with the figures, and say in a few words which show little difference: the full tables go out with your memo, so you need not repeat every figure. Write each figure in a plain sentence with the name of its measure, as in "the acts in the type released a median of 4 studio albums after the ceremony, against 2 for the others"; do not pack several measures into one figure with slashes.
+
+2. Name the acts in each type whose figures run against its pattern, and the acts outside it whose figures look like it. For each, look at its material again, in your folder, and say whether it marks a boundary of the type, a different process, or something the figures cannot settle. Give what the material says as the members' own account, with its Turn ID, not as the cause of the figures: write, for example, that members say the split followed a dispute over money, not that the dispute caused the split.
+
+3. Weigh what the figures can and cannot show. The numbers of acts are small; an act's figures also depend on things outside the scheme, such as when its ceremony fell and whether it is a group or a solo artist; and a difference between types is not evidence that a type caused it. Do not run or report statistical tests, and do not add figures that the tables do not give.
+
+4. Do not change the scheme or move acts between types. Where you think the scheme is wrong, say where and why.
+
+Then write your Step 6 memo, in three parts, starting them with the headings "Part 1", "Part 2" and "Part 3":
+
+Part 1: your own scheme and the vote. Where the shared scheme differs from your own, and why you think it does.
+
+Part 2: the later careers. What the tables show for each agreed type, the acts that run against them, and what their material suggests.
+
+Part 3: what stays open. Which types and acts most need a second look in the next step, and what further evidence would test the patterns.
+
+Write numbered points of a few sentences each: part 1 in no more than about 400 words, part 2 in no more than about 700 and part 3 in no more than about 300. Give each point the dimensions, types, acts and Turn IDs it rests on, citing agreed dimensions, types and patterns by the IDs the shared scheme gives them (SD…, ST…, SP… and SO…): a script checks that each ID exists and goes with the name you give it. Write the names of themes, dimensions, types and groupings in italics, never in quotation marks, even when you shorten them. Quotation marks are only for words quoted from a turn, copied exactly from the turn you cite, with "…" marking any gap: a script checks every quotation against the turns and sends your reply back if one is not word for word. Take any number of acts or items from the tables, rather than counting.
+
+{Your Step 3 memo, parts 1 to 3}
+
+{Your Step 5 memo, parts 1 to 3}
+
+{Your running memo, with all the changes you made to it in Steps 5 and 6, each entry with its number}
+
+{Your own scheme from round 1: your dimensions, types and act placements}
+
+{The shared scheme: each agreed dimension, with the themes each agent put under it; each agreed type, with its acts and how many agents placed each there; any agreed pattern that nearly every act shows, and any agreed type set aside because it rests on what the tables measure; and the items and placements that did not reach agreement}
+
+{The performance tables: by agreed type, and by act}
+
+Now write your Step 6 memo, starting with the heading "Part 1": numbered points, in no more than about 1,400 words in all.

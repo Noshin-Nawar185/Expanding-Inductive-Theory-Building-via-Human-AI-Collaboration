@@ -1,0 +1,54 @@
+Prompt 2: shared scheme (one call per agent)
+
+Before executing this prompt, review the best practices guide and any existing memos and memory, given below, as part of your brain. Where the guide and the instructions after it differ, follow the instructions.
+
+{the best practices guide, in full}
+
+You are Agent {A, B or C}, an expert qualitative analyst investigating this broad research question:
+
+What happens within groups over time during and after that group experiences recognition for early creative success?
+
+Each musical act constitutes a case. The source material contains attributed accounts drawn from articles and audiovisual sources, arranged by available source dates. These accounts may describe earlier experiences, present different perspectives, or leave important matters unclear. For solo artists, read "the group" as the artist and the people they make music with, without assuming that a stable group exists.
+
+This is round 2 of Step 6, which develops categories and classifies the cases, following the guide's Step 6. In round 1 each agent, A, B and C, grouped its own final themes into aggregate dimensions, built types of act and placed every act, on its own. A script has pooled the three agents' dimensions and types into one list, below, in a neutral order. It gives each item's name, definition and boundaries, but not who made it or the themes behind it: some of the items are yours, and you are not meant to know which. This round builds a shared scheme. Two items count as one when at least two agents mark them the same. An item stands when at least two agents keep it and support it from their own work: a dimension with at least one of their own themes, a type with at least three acts that fit it, clearly or partly. An act stands in a type when at least two agents place it there, and a type needs at least three such acts. A type that at least two agents judge to rest on what the last round measures is kept on record but left out of that comparison. Everything else is kept on record as a disagreement. Data on the acts' later careers still stays out: it comes in only once the shared scheme is fixed.
+
+Base your analysis on the supplied material, your codes, your themes and your memory. Do not use outside knowledge of the acts, their members or any study of them, including anything you may know about how the acts fared later. Do not bring in facts about the music industry or its history that the material does not give, such as the eras, trends or market changes you may know of. Do not assume that a particular event caused later developments.
+
+Judge every item by the same standard: whether your own analysis supports it as one distinct, well-bounded concept that matters for the research question. The vote finds the concepts that more than one analysis supports, so keep an item only when your own work supports it, not merely because it is well put. For each pooled dimension (D1, D2 …) and each pooled type (T1, T2 …):
+
+1. Name the other pooled item of the same kind that is closest to it in meaning ("closest"), and decide whether the two describe one concept, even in different words or at a different breadth. If they do, mark the item the same as that item, or as another it matches better ("same_as"), giving one sentence on why, and keep the one that puts the concept better. Do not drop an item only because another item already covers it: mark it the same.
+
+2. Otherwise, keep it or drop it, and give one sentence on why. Keep an item when your own themes or your reading of the acts support it, even if your own work has nothing named like it. Drop one that your own work does not support, that joins concepts that vary separately, or that adds nothing the others do not. A dimension brings several themes together under one broader concept, so do not drop one only because its themes differ from each other; drop it when they share no one concept. A type is an ideal type, so do not drop one only because no act fits it exactly; drop it when fewer than three acts fit it, or when nearly every act fits it, since it then sets no acts apart. Do not add new items in this round: where two items should merge, mark them the same; where one should be split, drop it and say why.
+
+3. For each dimension you keep, list the final themes of yours that belong under it, each by its ID, such as F3. A dimension you keep must hold at least one of your themes: if none belongs under it, drop it, or mark it the same as a dimension you keep. List each of your themes under the dimension that fits it best, and under a second only when it clearly belongs to both.
+
+4. For each type you keep, list the acts it holds as you judge them now, written exactly as the act names below, each with its fit, clearly or partly. Test each act against the type as in round 1, one at a time: the acts listed with a type below are only its author's view. A type you keep must hold at least three acts that fit it, clearly or partly. An act may sit in one type, several or none; where an act fits many of the types you keep clearly, check whether those types are really distinct.
+
+5. For every pooled type, kept or not, say whether it rests on what the last round measures ("rests_on_outcomes": yes or no): whether or when an act split, came back or stopped, how long it lasted or how much it released, or its later success. Say yes when only acts that had such an event or outcome could fit the type, however it is worded, even if it is about how members tell it. A type that at least two agents say rests on these is kept on record but left out of the comparison in the last round, since it would only measure itself.
+
+Your folder has the same files as in round 1. Open them where you need to check a passage or an act.
+
+Then update your running memo: add what this round taught you, for the last round and for later steps, written as in your earlier entries; revise earlier entries, by their number, where your understanding has changed; and drop those that proved wrong or are no longer needed.
+
+Reply in this JSON format, with one entry for every pooled item:
+
+{"items": [{"id": "D… | T…", "closest": "D… | T…", "decision": "keep | drop | same", "same_as": "D… | T…", "why": "…", "themes": ["F…"], "acts": [{"act": "…", "fit": "clear | partial"}], "rests_on_outcomes": "yes | no"}],
+ "memo": {"add": ["(Turn ID or general): …"], "revise": [{"entry": "M…", "text": "(Turn ID or general): …"}], "drop": ["M…"]}}
+
+Give "closest" for every item, "same_as" only with "same", "themes" only for dimensions, and "acts" and "rests_on_outcomes" only for types. Marking an item the same as another counts as keeping both, as one; give the themes or acts for the two once, under either of them.
+
+{Your Step 3 memo, parts 1 to 3}
+
+{Your Step 5 memo, parts 1 to 3}
+
+{Your running memo, as Step 5 left it, each entry with its number (your changes from round 1 of Step 6 come back in round 3)}
+
+{The pooled dimensions: for each, its ID, name, definition and boundaries}
+
+{The pooled types: for each, its ID, name, definition, boundaries, the dimensions that define it, and the acts its author placed in it, with their fit}
+
+{Your final themes from Step 5, each with its ID and definition}
+
+{For each act: its name; group or solo artist; won or nominated, and the year of its ceremony; and your Step 5 summary of it}
+
+Reply in the JSON format given above.

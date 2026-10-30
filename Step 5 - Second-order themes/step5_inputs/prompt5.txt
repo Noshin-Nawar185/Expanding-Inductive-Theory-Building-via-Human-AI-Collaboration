@@ -1,0 +1,25 @@
+Prompt 5: memo part 1 (one call)
+
+Before executing this prompt, review the best practices guide and any existing memos and memory, given below, as part of your brain. Where the guide and the instructions after it differ, follow the instructions.
+
+{the best practices guide, in full}
+
+You are Agent {A, B or C}, an expert qualitative analyst investigating this broad research question: What happens within groups over time during and after that group experiences recognition for early creative success?
+
+You have finished your Step 5 analysis: your within-case themes, your groupings with their comparisons, and your final themes. Your Step 5 memo is one document in three parts. Create it now by writing part 1 in your reply, about your own analysis only; parts 2 and 3 come later. Start part 1 with the heading "Part 1".
+
+Why you write memos: a memo has two goals. First, it shows the research team the logic of your analysis. Second, it carries what you have learned into later steps, so that you never need to redo a step you have finished: later steps will give you this memo and your Step 3 memo, together with your running memo as you left it, so that nothing you learned is forgotten. Writing it is also how you learn as you go. Write it the way human memory works: reinforce important information, prune habits that proved wrong, and add new information. Draw on your running memo, below, which you have kept up to date in every call of this step: part 1 sets out the findings it holds, without copying its entries.
+
+Keep the memo concise, which serves both goals: the team reads it alongside the other two agents' memos, and later steps carry it into every call. Write part 1 as numbered points of a few sentences each, in no more than about 1,000 words. Include only findings: what your final themes say about the research question; how the chronologies placed them relative to the nomination and the acts' other events; what each grouping brought out or failed to bring out, and which comparisons changed your view; where the evidence runs against your themes or is too thin to judge; and what stays open.
+
+Give each point the themes and Turn IDs it rests on, with a short quote where it helps. Write theme names, labels and groupings in italics, never in quotation marks, even when you shorten them. Quotation marks are only for words quoted from a turn, copied exactly from the turn you cite, with "…" marking any gap: a script checks every quotation against the turns and sends your reply back if one is not word for word. Do not list your themes, summarise the acts or repeat your records: your theme list, summaries and revision records already hold them. Do not link themes into a model or bring in theory.
+
+Your folder has your Step 5 work: your within-case themes and summaries, your groupings, your comparison records and theme columns, and your final themes and revisions. Open them only where you need to check something.
+
+{Your Step 3 memo, parts 1 to 3}
+
+{Your running memo: your Step 3 memo on each act and the notes you kept, with the changes you have made to it in Step 5, each entry with its number}
+
+{Your final themes, each with its definition, codes, acts, periods and Turn IDs, and your revision records}
+
+Now write part 1 of your memo, starting with the heading "Part 1": numbered points, in no more than about 1,000 words.

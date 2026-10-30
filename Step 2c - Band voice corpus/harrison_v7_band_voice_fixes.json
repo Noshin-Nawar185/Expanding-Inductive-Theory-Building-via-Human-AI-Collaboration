@@ -1,0 +1,822 @@
+{
+ "about": {
+  "what": "Hand fixes from the cleaning round of the band voice corpus (version 1.3), applied by build_band_voice_jsonl.py from version 1.4. 'reviewed' are the turns marked Check that were looked at by hand; 'turns' drops a turn or changes its text (each edit replaces one exact passage, and is applied only where that passage is still in the turn); 'videos' sets a video's date for all its turns.",
+  "made from": "harrison_v7_band_voice_fixes.xlsx, filled in by Noshin Nawar",
+  "made on": "2026-10-20"
+ },
+ "reviewed": [
+  "176-52",
+  "351-9",
+  "351-11",
+  "351-15",
+  "351-19",
+  "354-15",
+  "1366-30",
+  "2052-25",
+  "2224-23",
+  "2251-22",
+  "3025-17",
+  "3043-27",
+  "3491-21",
+  "3552-85",
+  "3669-5",
+  "4481-17",
+  "4757-28",
+  "4783-62",
+  "5208-12",
+  "5286-6",
+  "6256-60",
+  "6298-21",
+  "6383-30",
+  "7057-221",
+  "7073-37",
+  "7182-9",
+  "7865-4",
+  "7865-8",
+  "7865-14",
+  "7865-18",
+  "7865-21",
+  "7865-25",
+  "7865-31",
+  "7865-35",
+  "7865-37",
+  "7865-43",
+  "9352-7",
+  "9407-9",
+  "9407-19",
+  "8475-21",
+  "8475-31",
+  "8489-27",
+  "8554-6",
+  "8554-8",
+  "9566-11",
+  "10220-17",
+  "10719-45",
+  "10991-22",
+  "10991-24",
+  "10991-32",
+  "12039-18",
+  "12245-21",
+  "12426-11",
+  "13071-137",
+  "V1-4",
+  "V168-103",
+  "V506-63",
+  "V1243-24",
+  "V1243-41",
+  "V1661-29",
+  "V3728-26",
+  "V173-32",
+  "V348-2",
+  "V348-4",
+  "V504-8",
+  "V504-12",
+  "V504-14",
+  "V504-28",
+  "V504-40",
+  "V803-35",
+  "V1328-3",
+  "V1328-5",
+  "V1328-7",
+  "V1328-9",
+  "V1328-11",
+  "V1328-15",
+  "V1328-17",
+  "V1328-19",
+  "V1328-22",
+  "V1328-30",
+  "V1328-31",
+  "V1328-38",
+  "V1328-48",
+  "V1328-52",
+  "V1328-58",
+  "V1328-60",
+  "V1328-64",
+  "V1328-65",
+  "V1328-67",
+  "V1328-68",
+  "V1328-72",
+  "V1328-75",
+  "V1328-78",
+  "V1328-80",
+  "V1328-81",
+  "V1328-85",
+  "V1328-87",
+  "V1328-88",
+  "V1328-90",
+  "V1328-91",
+  "V1328-93",
+  "V1328-94",
+  "V1328-97",
+  "V1328-99",
+  "V1328-101",
+  "V1328-103",
+  "V1328-105",
+  "V1328-106",
+  "V1328-109",
+  "V1328-110",
+  "V1328-113",
+  "V1328-114",
+  "V1328-118",
+  "V1328-120",
+  "V1328-124",
+  "V1328-126",
+  "V1328-128",
+  "V1328-129",
+  "V1328-131",
+  "V1328-137",
+  "V1328-139",
+  "V1328-140",
+  "V1328-143",
+  "V1328-150",
+  "V1328-151",
+  "V1328-153",
+  "V1328-154",
+  "V1328-156",
+  "V1328-159",
+  "V1328-166",
+  "V1328-180",
+  "V1328-181",
+  "V1328-183",
+  "V1328-184",
+  "V1328-185",
+  "V1328-187",
+  "V1328-189",
+  "V1328-191",
+  "V1328-192",
+  "V1328-193",
+  "V1328-195",
+  "V1328-197",
+  "V1328-203",
+  "V1328-207",
+  "V1328-211",
+  "V1328-227",
+  "V1328-230",
+  "V1328-232",
+  "V1328-234",
+  "V1328-243",
+  "V1328-247",
+  "V1328-248",
+  "V1328-252",
+  "V1328-254",
+  "V1328-259",
+  "V1328-261",
+  "V1328-262",
+  "V1328-266",
+  "V1328-270",
+  "V1328-272",
+  "V1328-274",
+  "V1328-285",
+  "V1328-287",
+  "V1328-290",
+  "V1328-292",
+  "V1328-294",
+  "V1328-297",
+  "V1328-299",
+  "V1328-303",
+  "V1328-307",
+  "V1328-308",
+  "V1533-41",
+  "V1533-47",
+  "V1664-1",
+  "V1664-3",
+  "V1664-5",
+  "V1664-14",
+  "V1664-23",
+  "V1664-44",
+  "V1664-46",
+  "V1664-49",
+  "V1664-50",
+  "V1664-52",
+  "V1664-54",
+  "V1664-59",
+  "V1664-61",
+  "V1631-1",
+  "V1631-3",
+  "V2656-35",
+  "V2656-39",
+  "V3433-1",
+  "V3433-7",
+  "V3433-8",
+  "V3435-10",
+  "V3435-14",
+  "V3435-18",
+  "V3435-20",
+  "V3435-73"
+ ],
+ "turns": [
+  {
+   "Turn ID": "176-52",
+   "Act": "Dire Straits",
+   "drop": true,
+   "note": ""
+  },
+  {
+   "Turn ID": "354-15",
+   "Act": "Dire Straits",
+   "edits": [
+    [
+     " The Q&A continues in the Part 3 blog post. Click HERE to read the end of the Q&A, where Mark and Brian talk about Sam Fender.",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 111,
+   "words after": 85
+  },
+  {
+   "Turn ID": "1366-30",
+   "Act": "Irene Cara",
+   "edits": [
+    [
+     " (Note: In 1993 Cara won her case with a jury verdict in California, and she finally began earning royalties a decade after her hit success.)",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 278,
+   "words after": 253
+  },
+  {
+   "Turn ID": "2224-23",
+   "Act": "James Ingram",
+   "edits": [
+    [
+     " To hear the full audio of my 1983 interview with James Ingram subscribe to my Patreon page, where you can eavesdrop on over 500 of my uncut, one-on-one conversations with: Dave Martone, 2020 Ian Gillan of Deep Purple, 2006 Joss Stone, 2012 Glenn Tipton of Judas Priest, 2005 Jack Blades of Night Ranger, 1984 Vivian Campbell of Def Leppard, 1992 Colin James, 1995 Kim Simmonds of Savoy Brown, 1998 Tom Cochrane of Red Rider, 1983 Ed Roland of Collective Soul, 1995 Taj Mahal, 2001 Tom Wilson of Junkhouse, 1995 Mike McCready of Pearl Jam, 2003 David Lindley, 2002 Marty Friedman of Megadeth, 1991 John Hiatt, 2010 Nancy Wilson of Heart, 2006 Jeff Golub, 1989 Moe Berg of the Pursuit of Happiness, 1990 Todd Rundgren, 2006 Chad Kroeger of Nickelback, 2001 Steve Earle, 1987 Gabby Gaborno of the Cadillac Tramps, 1991 Terry Bozzio, 2003 Roger Glover, 1985 Matthew Sweet, 1995 Jim McCarty of the Yardbirds, 2003 Luther Dickinson of North Mississippi Allstars, 2001 John Rzeznik of the Goo Goo Dolls, 1995 Steve Hackett from Genesis, 1993 Grace Potter, 2008 Buddy Guy, 1993 Steve Lynch of Autograph, 1985 Don Wilson of the Ventures, 1997 Gordie Johnson of Big Sugar, 1998 Trevor Rabin of Yes, 1984 Albert Lee, 1986 Yngwie Malmsteen, 1985 Robert Cray, 1996 Tony Carey, 1984 Ian Hunter, 1988 Kate Bush, 1985 David Gilmour from Pink Floyd, 1984 Jeff Healey, 1988 Gord Downie of the Tragically Hip, 1996 Richie Sambora of Bon Jovi, 1993 Colin Linden, 1993 Kenny Wayne Shepherd, 1995 Justin Hayward of the Moody Blues, 1986 Elliot Easton from the Cars, 1996 Wayne Kramer from the MC5, 2004 Bob Rock, 1992 Nick Gilder, 1985 Klaus Meine of Scorpions, 1988 Jason Bonham, 1989 Tom Johnston of the Doobie Brothers, 1991 Joey Spampinato of NRBQ, 1985 Patterson Hood of the Drive-By Truckers, 2003 Andy Powell of Wishbone Ash, 2003 Steve Kilbey of the Church, 1990 Edgar Winter, 2005 Johnette Napolitano of Concrete Blonde, 1990 Randy Hansen, 2001 Dan McCafferty of Nazareth, 1984 Davy Knowles of Back Door Slam, 2007 Jimmy Barnes from Cold Chisel, 1986 Steve Stevens of Atomic Playboys, 1989 Billy Idol, 1984 Stuart Adamson of Big Country, 1993 Ian Anderson of Jethro Tull, 1992 Warren Haynes of Gov't Mule, 1998 John Bell of Widespread Panic, 1992 Robben Ford, 1993 Barry Hay of Golden Earring, 1984 Jason Isbell, 2007 Joey Belladonna of Anthrax, 1991 Joe Satriani, 1990 Vernon Reid of Living Colour, 1988 Brad Delp of Boston, 1988 Zakk Wylde of Pride & Glory, 1994 John Sykes of Blue Murder, 1989 Alice Cooper, 1986 Lars Ulrich of Metallica, 1985 John Doe, 1990 Shannon Hoon of Blind Melon, 1992 Myles Goodwyn of April Wine, 2001 John Mellencamp, 1999 Mike Campbell of Tom Petty & the Heartbreakers, 1999 Kenny Aronoff, 1999 Doyle Bramhall II, 2001 Jon Bon Jovi, 1986 Dickey Betts of the Allman Brothers, 1992 Randy Bachman, 2001 Little Steven, 1987 Stevie Salas, 1990 J.J. Cale, 2009 Joe Bonamassa, 2011 Tommy Emmanuel, 1994 Rob Baker of the Tragically Hip, 1997 John Petrucci of Dream Theater, 2010 Eric Johnson, 2001 Stu Hamm, 1991 Gene Simmons of Kiss, 1992 Ace Frehley from Kiss, 2008 David Lee Roth, 1994 Allan Holdsworth, 1983 John Mayall of the Bluesbreakers, 1988 Steve Vai, 1990 Tony Iommi of Heaven and Hell, 2007 Flea of the Red Hot Chili Peppers, 1996 Geoff Tate of Queensryche, 1991 James Hetfield of Metallica, 1986 Stevie Ray Vaughan, 1990 Rick Richards of the Georgia Satellites, 1988 Andy McCoy and Sam Yaffa of Hanoi Rocks, 1984 Steve Morse, 1991 Slash of Guns N' Roses, 1994 Brian May from Queen, 1993 Dickey Betts of the Allman Brothers, 1991 Jake E. Lee of Badlands, 1992 Rickey Medlocke of Lynyrd Skynyrd, 1997 John Fogerty, 1997 Joe Perry of Aerosmith, 1987 Rick Derringer, 1999 Robin Trower, 1990 Billy Gibbons of ZZ Top, 1994 Mick Ronson, 1988 Geddy Lee of Rush, 2002 Buck Dharma of Blue Oyster Cult, 1997 Michael Schenker, 1992 Vince Neil of Motley Crue, 1991 Vinnie Paul of Pantera, 1992 Joan Jett, 1992 Steve Harris of Iron Maiden, 1988 Sebastian Bach of Skid Row, 1989 Rob Halford of Judas Priest, 1984 Bill Henderson of Chilliwack, 1999 Paul Rodgers, 1997 R.L. Burnside, 1999 Guthrie Govan of the Aristocrats, 2015 Mick Mars of Mötley Crüe, 1985 Carlos Santana, 2011 Walter Trout, 2003 Rudy Sarzo of Quiet Riot, 1983 Rob Hirst of Midnight Oil, 2001 Tommy Aldridge, 2001 Donald \"Duck\" Dunn, 1985 Mark Farner of Grand Funk, 1991 Chris Robinson of Black Crowes, 1990 Jennifer Batten, 2002 Mike Fraser, 2014 Leo Kottke, 2002 Lemmy Kilmister of Motorhead, 2002 David Gogo, 1991 Booker T. Jones, 2016 Link Wray, 1997 James Reyne from Australian Crawl, 1988 Mike Rutherford of Genesis, 1983 Buddy Guy, 1991 Country Dick Montana of the Beat Farmers, 1990 Mike Cooley of the Drive-By Truckers, 2016 Gary Rossington of Lynyrd Skynyrd, 1986 Lindsay Mitchell of Prism, 1988 Buddy Miles, 2001 Eddie Money, 1988 Tom Hamilton of Aerosmith, 1983 Gaye Delorme, 1990 Dave Murray of Iron Maiden, 1984 Graham Bonnet of Alcatrazz, 1984 Mick Fleetwood of Fleetwood Mac, 2016 Doc Neeson of Angel City, 1985 Rik Emmett of Triumph, 1985 Sonny Landreth, 2016 Tosin Abasi of Animals as Leaders, 2016 Jeff Beck, 2001 Albert King, 1990 Johnny Ramone of the Ramones, 1992 Peter Frampton, 1987 Otis Rush, 1997 Gord Downie of the Tragically Hip, 1989 Leslie West of Mountain, 2002 Steve Howe of Yes, 2017 Bruce Dickinson of Iron Maiden, 1983 Uli Jon Roth, 2016 Poison Ivy of the Cramps, 1990 Stevie Ray Vaughan, 1985 Greg Lake of ELP, 1992 Robert Plant, 1993 Malcolm Young and Brian Johnson of AC/DC, 1983 Warren Zevon, 1992 Tal Wilkenfeld, 2016 Steve Clark of Def Leppard, 1988 Ronnie Montrose, 1994 Danny Gatton, 1993 Alex Lifeson of Rush, 1992 Ann Wilson of Heart, 1985 J.J. Cale, 1990 Yngwie Malmsteen, 2014 Chris Cornell, 2008 Long John Baldry, 1985 Allan Holdsworth, 1983 Kim Mitchell, 1984 Warren Haynes of the Allman Brothers, 1994 Derek Trucks, 1998 Susan Tedeschi, 1998 Joe Satriani, 2018 B.B. King, 1984 Albert Collins, 1985 Ronnie James Dio, 1985 Tony Iommi of Black Sabbath, 1984 Dick Dale, 2000 Greg Allman, 1998 Dickey Betts, 2001 ….with hundreds more to come Discover more from earofnewt.com",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 1065,
+   "words after": 36
+  },
+  {
+   "Turn ID": "2251-22",
+   "Act": "James Ingram",
+   "edits": [
+    [
+     " ***** James Ingram's Stand (In the Light) will be released on January 27 on Intering Records/Music One/WEA. Meanwhile, Ingram just returned back from South Africa and will be on The 700 Club and TBN programs as well as on the Hour of Power from the Crystal Cathedral. His website is www.jamesingramsmusic.com. Written by : Bob Marovich",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 99,
+   "words after": 43
+  },
+  {
+   "Turn ID": "3025-17",
+   "Act": "The Go-Go's",
+   "note": "only the editor's note cut, not the whole turn: the rest is her answer (agreed after the sheet)",
+   "edits": [
+    [
+     "Editor's Note: Golden Girls Christmas Episodes is an annual theater event in San Francisco where drag queens reenact their favorite Golden Girls Christmas Episodes ",
+     ""
+    ]
+   ],
+   "words before": 121,
+   "words after": 97
+  },
+  {
+   "Turn ID": "3043-27",
+   "Act": "The Go-Go's",
+   "edits": [
+    [
+     " The Belinda Carlisle Icon compilation will be in stores on March 19th. Visit Belinda's official website at www.belindacarlisle.tv for more information. The Go-Go's will be on the road this summer with the B-52's. Check out the latest tour dates via the band's site.",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 111,
+   "words after": 68
+  },
+  {
+   "Turn ID": "3491-21",
+   "Act": "Asia",
+   "edits": [
+    [
+     " ASIA's new studio album XXX is released by Frontiers Records and available on CD+DVD, CD, and MP3. The band embarks on their 30th Anniversary UK Tour on December 15th at Tavistock The Wharf. 24 HR Ticket Hotline: 0844 478 0898, www.eventim.co.uk, www.originalasia.com Tavistock The Wharf (Dec 15) Holmfirth Picturedrome (Dec 16) Edinburgh Queen's Hall (Dec 17) Salisbury City Hall (Dec 19) Birmingham Town Hall (Dec 20) Manchester Royal Northern College of Music (Dec 21) London o2 Shepherds Bush Empire (Dec 22) | | | | \\| Thursday, September 13th, 2012 at 10:03 am | | Previous Article | | | | Next Article | | | | \" | | | | | | \" | | | | You may have noticed that this site has gone AD FREE! (that's not an ad up there, that's an affiliate link) Please support us by using the Amazon Affiliate link above. All of the proceeds from the affiliate program go toward maintaining this site. | | | | Geeks of Doom is proudly powered by WordPress. Students of the Unusual™ comic cover used with permission of 3BoysProductions The Mercuri Bros.™ comic cover used with permission of Prodigal Son Press Geeks of Doom is designed and maintained by our geeky webmaster All original content copyright ©2005-2026 Geeks of Doom All external content copyright of its respective owner, except where noted |",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 334,
+   "words after": 105
+  },
+  {
+   "Turn ID": "3669-5",
+   "Act": "Asia",
+   "edits": [
+    [
+     " [Editor's note: This was the era when mono mixes for UK pop records were the norm and most of the effort was put into creating them. Singles were king in the UK and they were in mono, which was in keeping with the majority of domestic equipment, few people owning the more expensive stereo turntables. Indeed until the late 60s/early 70s stereo mixes were often an after thought in the studio as well as being rushed, often being left to recording engineers, rather than the producer, to complete – which was even the case with The Beatles and Sgt Pepper. The pop radio stations of the mid to late 60s (Radio Luxembourg, the pirates and then BBC Radio 1) were all mono and it wasn't until 1973 that Radio 1 started regularly broadcasting in stereo.]",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 293,
+   "words after": 158
+  },
+  {
+   "Turn ID": "4481-17",
+   "Act": "Stray Cats",
+   "edits": [
+    [
+     " [www.slimjimphantom.com/shop]",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 196,
+   "words after": 195
+  },
+  {
+   "Turn ID": "4757-28",
+   "Act": "The Human League",
+   "edits": [
+    [
+     "â€",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 69,
+   "words after": 69
+  },
+  {
+   "Turn ID": "5208-12",
+   "Act": "Big Country",
+   "edits": [
+    [
+     " To revisit this site's feature/interview with Mark's fellow Big Country co-founder Bruce Watson from October 2014, head here. Big Country's The Seer 30th anniversary tour resumes on Friday, September 30th at The Warehouse, Falkirk, carrying on through October, November and December, towards a Friday, December 30th date at PJ Molloy's, Dunfermline. For full details and all the latest from the band visit www.bigcountry.co.uk or keep in touch via Facebook and Twitter. Meanwhile, here's a link to the ESP page on Facebook, and another to Mark Brzezicki's own page.",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 984,
+   "words after": 896
+  },
+  {
+   "Turn ID": "5286-6",
+   "Act": "Big Country",
+   "edits": [
+    [
+     " - Vinyl reissues of Big Country's first live album Without the Aid of a Safety Net and sixth album The Buffalo Skinners are out now. The current lineup – featuring Bruce Watson and Mark Brzezicki – are touring the UK until June. In the UK and Ireland, Samaritans can be contacted on 116 123 or email jo@samaritans.org or jo@samaritans.ie. In the US, the National Suicide Prevention Lifeline is 1-800-273-8255. In Australia, the crisis support service Lifeline is 13 11 14. Other international helplines can be found at www.befrienders.org.",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 174,
+   "words after": 86
+  },
+  {
+   "Turn ID": "6256-60",
+   "Act": "Eurythmics",
+   "edits": [
+    [
+     " Thank you to my guest, Annie Lennox, as well as to everyone at Rizzoli for making this episode happen. The editor of The Grand Tourist is Stan Hall. To keep this going, don't forget to visit our website and sign up for our newsletter, The Grand Tourist Curator at thegrandtourist.net.And follow me on Instagram @danrubinstein. And don't forget, you can purchase the first ever print issue of The Grand Tourist online now on our website. Just a few copies left.And follow The Grand Tourist on Apple Podcasts, Spotify, or wherever you like to listen, and leave us a rating or comment. Every little bit helps. Til next time!",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 266,
+   "words after": 158
+  },
+  {
+   "Turn ID": "6298-21",
+   "Act": "Men Without Hats",
+   "edits": [
+    [
+     " To hear the full audio of my 1984 interview with Ivan Doroschuk subscribe to my Patreon page, where you can eavesdrop on over 600 of my uncut, one-on-one conversations with: Dave Martone, 2020 Ian Gillan of Deep Purple, 2006 Joss Stone, 2012 Glenn Tipton of Judas Priest, 2005 Jack Blades of Night Ranger, 1984 Vivian Campbell of Def Leppard, 1992 Colin James, 1995 Kim Simmonds of Savoy Brown, 1998 Tom Cochrane of Red Rider, 1983 Ed Roland of Collective Soul, 1995 Taj Mahal, 2001 Tom Wilson of Junkhouse, 1995 Mike McCready of Pearl Jam, 2003 David Lindley, 2002 Marty Friedman of Megadeth, 1991 John Hiatt, 2010 Nancy Wilson of Heart, 2006 Jeff Golub, 1989 Moe Berg of the Pursuit of Happiness, 1990 Todd Rundgren, 2006 Chad Kroeger of Nickelback, 2001 Steve Earle, 1987 Gabby Gaborno of the Cadillac Tramps, 1991 Terry Bozzio, 2003 Roger Glover, 1985 Matthew Sweet, 1995 Jim McCarty of the Yardbirds, 2003 Luther Dickinson of North Mississippi Allstars, 2001 John Rzeznik of the Goo Goo Dolls, 1995 Steve Hackett from Genesis, 1993 Grace Potter, 2008 Buddy Guy, 1993 Steve Lynch of Autograph, 1985 Don Wilson of the Ventures, 1997 Gordie Johnson of Big Sugar, 1998 Trevor Rabin of Yes, 1984 Albert Lee, 1986 Yngwie Malmsteen, 1985 Robert Cray, 1996 Tony Carey, 1984 Ian Hunter, 1988 Kate Bush, 1985 David Gilmour from Pink Floyd, 1984 Jeff Healey, 1988 Gord Downie of the Tragically Hip, 1996 Richie Sambora of Bon Jovi, 1993 Colin Linden, 1993 Kenny Wayne Shepherd, 1995 Justin Hayward of the Moody Blues, 1986 Elliot Easton from the Cars, 1996 Wayne Kramer from the MC5, 2004 Bob Rock, 1992 Nick Gilder, 1985 Klaus Meine of Scorpions, 1988 Jason Bonham, 1989 Tom Johnston of the Doobie Brothers, 1991 Joey Spampinato of NRBQ, 1985 Patterson Hood of the Drive-By Truckers, 2003 Andy Powell of Wishbone Ash, 2003 Steve Kilbey of the Church, 1990 Edgar Winter, 2005 Johnette Napolitano of Concrete Blonde, 1990 Randy Hansen, 2001 Dan McCafferty of Nazareth, 1984 Davy Knowles of Back Door Slam, 2007 Jimmy Barnes from Cold Chisel, 1986 Steve Stevens of Atomic Playboys, 1989 Billy Idol, 1984 Stuart Adamson of Big Country, 1993 Ian Anderson of Jethro Tull, 1992 Warren Haynes of Gov't Mule, 1998 John Bell of Widespread Panic, 1992 Robben Ford, 1993 Barry Hay of Golden Earring, 1984 Jason Isbell, 2007 Joey Belladonna of Anthrax, 1991 Joe Satriani, 1990 Vernon Reid of Living Colour, 1988 Brad Delp of Boston, 1988 Zakk Wylde of Pride & Glory, 1994 John Sykes of Blue Murder, 1989 Alice Cooper, 1986 Lars Ulrich of Metallica, 1985 John Doe, 1990 Shannon Hoon of Blind Melon, 1992 Myles Goodwyn of April Wine, 2001 John Mellencamp, 1999 Mike Campbell of Tom Petty & the Heartbreakers, 1999 Kenny Aronoff, 1999 Doyle Bramhall II, 2001 Jon Bon Jovi, 1986 Dickey Betts of the Allman Brothers, 1992 Randy Bachman, 2001 Little Steven, 1987 Stevie Salas, 1990 J.J. Cale, 2009 Joe Bonamassa, 2011 Tommy Emmanuel, 1994 Rob Baker of the Tragically Hip, 1997 John Petrucci of Dream Theater, 2010 Eric Johnson, 2001 Stu Hamm, 1991 Gene Simmons of Kiss, 1992 Ace Frehley from Kiss, 2008 David Lee Roth, 1994 Allan Holdsworth, 1983 John Mayall of the Bluesbreakers, 1988 Steve Vai, 1990 Tony Iommi of Heaven and Hell, 2007 Flea of the Red Hot Chili Peppers, 1996 Geoff Tate of Queensryche, 1991 James Hetfield of Metallica, 1986 Stevie Ray Vaughan, 1990 Rick Richards of the Georgia Satellites, 1988 Andy McCoy and Sam Yaffa of Hanoi Rocks, 1984 Steve Morse, 1991 Slash of Guns N' Roses, 1994 Brian May from Queen, 1993 Dickey Betts of the Allman Brothers, 1991 Jake E. Lee of Badlands, 1992 Rickey Medlocke of Lynyrd Skynyrd, 1997 John Fogerty, 1997 Joe Perry of Aerosmith, 1987 Rick Derringer, 1999 Robin Trower, 1990 Billy Gibbons of ZZ Top, 1994 Mick Ronson, 1988 Geddy Lee of Rush, 2002 Buck Dharma of Blue Oyster Cult, 1997 Michael Schenker, 1992 Vince Neil of Motley Crue, 1991 Vinnie Paul of Pantera, 1992 Joan Jett, 1992 Steve Harris of Iron Maiden, 1988 Sebastian Bach of Skid Row, 1989 Rob Halford of Judas Priest, 1984 Bill Henderson of Chilliwack, 1999 Paul Rodgers, 1997 R.L. Burnside, 1999 Guthrie Govan of the Aristocrats, 2015 Mick Mars of Mötley Crüe, 1985 Carlos Santana, 2011 Walter Trout, 2003 Rudy Sarzo of Quiet Riot, 1983 Rob Hirst of Midnight Oil, 2001 Tommy Aldridge, 2001 Donald \"Duck\" Dunn, 1985 Mark Farner of Grand Funk, 1991 Chris Robinson of Black Crowes, 1990 Jennifer Batten, 2002 Mike Fraser, 2014 Leo Kottke, 2002 Lemmy Kilmister of Motorhead, 2002 David Gogo, 1991 Booker T. Jones, 2016 Link Wray, 1997 James Reyne from Australian Crawl, 1988 Mike Rutherford of Genesis, 1983 Buddy Guy, 1991 Country Dick Montana of the Beat Farmers, 1990 Mike Cooley of the Drive-By Truckers, 2016 Gary Rossington of Lynyrd Skynyrd, 1986 Lindsay Mitchell of Prism, 1988 Buddy Miles, 2001 Eddie Money, 1988 Tom Hamilton of Aerosmith, 1983 Gaye Delorme, 1990 Dave Murray of Iron Maiden, 1984 Graham Bonnet of Alcatrazz, 1984 Mick Fleetwood of Fleetwood Mac, 2016 Doc Neeson of Angel City, 1985 Rik Emmett of Triumph, 1985 Sonny Landreth, 2016 Tosin Abasi of Animals as Leaders, 2016 Jeff Beck, 2001 Albert King, 1990 Johnny Ramone of the Ramones, 1992 Peter Frampton, 1987 Otis Rush, 1997 Gord Downie of the Tragically Hip, 1989 Leslie West of Mountain, 2002 Steve Howe of Yes, 2017 Bruce Dickinson of Iron Maiden, 1983 Uli Jon Roth, 2016 Poison Ivy of the Cramps, 1990 Stevie Ray Vaughan, 1985 Greg Lake of ELP, 1992 Robert Plant, 1993 Malcolm Young and Brian Johnson of AC/DC, 1983 Warren Zevon, 1992 Tal Wilkenfeld, 2016 Steve Clark of Def Leppard, 1988 Ronnie Montrose, 1994 Danny Gatton, 1993 Alex Lifeson of Rush, 1992 Ann Wilson of Heart, 1985 J.J. Cale, 1990 Yngwie Malmsteen, 2014 Chris Cornell, 2008 Long John Baldry, 1985 Allan Holdsworth, 1983 Kim Mitchell, 1984 Warren Haynes of the Allman Brothers, 1994 Derek Trucks, 1998 Susan Tedeschi, 1998 Joe Satriani, 2018 B.B. King, 1984 Albert Collins, 1985 Ronnie James Dio, 1985 Tony Iommi of Black Sabbath, 1984 Dick Dale, 2000 Greg Allman, 1998 Dickey Betts, 2001 ….with hundreds more to come Discover more from earofnewt.com",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 1317,
+   "words after": 288
+  },
+  {
+   "Turn ID": "6383-30",
+   "Act": "Men Without Hats",
+   "drop": true,
+   "note": ""
+  },
+  {
+   "Turn ID": "7057-221",
+   "Act": "Cyndi Lauper",
+   "drop": true,
+   "note": ""
+  },
+  {
+   "Turn ID": "7073-37",
+   "Act": "Cyndi Lauper",
+   "edits": [
+    [
+     " Denvercenter.org uses cookies to improve our site performance and personalize the content and advertisements you may see. To accept our cookies please click the OK button.",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 35,
+   "words after": 9
+  },
+  {
+   "Turn ID": "7182-9",
+   "Act": "Cyndi Lauper",
+   "edits": [
+    [
+     " [Editor's note: the artist Gilbert Baker designed the rainbow flag in the Seventies, long before the song existed.]",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 286,
+   "words after": 268
+  },
+  {
+   "Turn ID": "7865-4",
+   "Act": "Sheila E.",
+   "edits": [
+    [
+     " Advertisement",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 84,
+   "words after": 83
+  },
+  {
+   "Turn ID": "7865-8",
+   "Act": "Sheila E.",
+   "edits": [
+    [
+     " Advertisement",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 92,
+   "words after": 91
+  },
+  {
+   "Turn ID": "7865-14",
+   "Act": "Sheila E.",
+   "edits": [
+    [
+     "Advertisement ",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 134,
+   "words after": 133
+  },
+  {
+   "Turn ID": "7865-18",
+   "Act": "Sheila E.",
+   "edits": [
+    [
+     "Advertisement ",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 149,
+   "words after": 148
+  },
+  {
+   "Turn ID": "7865-21",
+   "Act": "Sheila E.",
+   "edits": [
+    [
+     " Advertisement",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 96,
+   "words after": 95
+  },
+  {
+   "Turn ID": "7865-25",
+   "Act": "Sheila E.",
+   "edits": [
+    [
+     " Advertisement",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 212,
+   "words after": 211
+  },
+  {
+   "Turn ID": "7865-31",
+   "Act": "Sheila E.",
+   "edits": [
+    [
+     " Advertisement",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 93,
+   "words after": 92
+  },
+  {
+   "Turn ID": "7865-35",
+   "Act": "Sheila E.",
+   "edits": [
+    [
+     "ng. Advertisement \"We ",
+     "ng. \"We "
+    ],
+    [
+     " Advertisement",
+     ""
+    ]
+   ],
+   "note": "second 'Advertisement' also cut (added after the sheet, as in the other Sheila E. turns)",
+   "words before": 454,
+   "words after": 452
+  },
+  {
+   "Turn ID": "7865-37",
+   "Act": "Sheila E.",
+   "edits": [
+    [
+     " Advertisement",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 160,
+   "words after": 159
+  },
+  {
+   "Turn ID": "7865-43",
+   "Act": "Sheila E.",
+   "edits": [
+    [
+     " Advertisement",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 149,
+   "words after": 148
+  },
+  {
+   "Turn ID": "9352-7",
+   "Act": "a-ha",
+   "edits": [
+    [
+     " Zoe Gnecco [photo: Jenny Woods]",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 107,
+   "words after": 102
+  },
+  {
+   "Turn ID": "9407-9",
+   "Act": "a-ha",
+   "edits": [
+    [
+     " Ed: Jousting is a martial game between two horsemen wielding wooden lances, while riding a horse.",
+     ""
+    ]
+   ],
+   "note": "editor's note cut (agreed after the sheet)",
+   "words before": 28,
+   "words after": 12
+  },
+  {
+   "Turn ID": "9407-19",
+   "Act": "a-ha",
+   "edits": [
+    [
+     " Ed: The song is sung by Michael Bolton.",
+     ""
+    ]
+   ],
+   "note": "editor's note cut (agreed after the sheet)",
+   "words before": 22,
+   "words after": 14
+  },
+  {
+   "Turn ID": "8475-21",
+   "Act": "Julian Lennon",
+   "edits": [
+    [
+     " *John and Julian Lennon in January 1968. Photo: Keystone Features/Getty Images*",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 193,
+   "words after": 182
+  },
+  {
+   "Turn ID": "8475-31",
+   "Act": "Julian Lennon",
+   "edits": [
+    [
+     " *Paul McCartney and Julian Lennon in 1967. Photo: Central Press/Getty Images*",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 225,
+   "words after": 214
+  },
+  {
+   "Turn ID": "8489-27",
+   "Act": "Julian Lennon",
+   "edits": [
+    [
+     " Join the Monaco Life community – sign up for the Monaco Life newsletter, and follow us on Threads, Facebook, Instagram, LinkedIn and Tik Tok. Photo of Julian Lennon credit: Marilyn Clark",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 86,
+   "words after": 55
+  },
+  {
+   "Turn ID": "9566-11",
+   "Act": "Bruce Hornsby and the Range",
+   "edits": [
+    [
+     " (for more information on it, check out www.optigan.com",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 66,
+   "words after": 58
+  },
+  {
+   "Turn ID": "10220-17",
+   "Act": "Simply Red",
+   "edits": [
+    [
+     " Simply Red headline Summer Days on Wednesday, July 6. Also performing on the day are Gabrielle, the Christians, the Steve Norman Band and Mike Peters. Jools Holland and his Rhythm and Blues Orchestra headline on Friday, July 8 and Echo and the Bunnymen, Saturday, July 9. Details from www.summerdaysfestival.com",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 56,
+   "words after": 7
+  },
+  {
+   "Turn ID": "10991-22",
+   "Act": "Cutting Crew",
+   "edits": [
+    [
+     " IN THIS PHOTO: Charlotte Church at The Bedford in 2010",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 112,
+   "words after": 102
+  },
+  {
+   "Turn ID": "10991-24",
+   "Act": "Cutting Crew",
+   "edits": [
+    [
+     "IN THIS PHOTO: Coffeepot Drive at The Bedford earlier this year ",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 198,
+   "words after": 187
+  },
+  {
+   "Turn ID": "10991-32",
+   "Act": "Cutting Crew",
+   "drop": true,
+   "note": ""
+  },
+  {
+   "Turn ID": "12039-18",
+   "Act": "Rick Astley",
+   "edits": [
+    [
+     " For more on Rick Astley, including tour dates, click here Featured image credit: Chloe Hashemi",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 34,
+   "words after": 19
+  },
+  {
+   "Turn ID": "12245-21",
+   "Act": "Take 6",
+   "edits": [
+    [
+     " Don't miss The Summit: Manhattan Transfer meets Take 6 at the Wharton Center on April 10th. Click here for show and ticket information.",
+     ""
+    ]
+   ],
+   "note": "",
+   "words before": 94,
+   "words after": 71
+  },
+  {
+   "Turn ID": "12426-11",
+   "Act": "Toni Childs",
+   "edits": [
+    [
+     "… To read more about my yoga journey go to: www.becauseyourebeautiful.yoga/toni-bio/",
+     "."
+    ]
+   ],
+   "note": "",
+   "words before": 159,
+   "words after": 149
+  },
+  {
+   "Turn ID": "13071-137",
+   "Act": "Indigo Girls",
+   "edits": [
+    [
+     " [Editor's Note: Ms. Saliers misquotes the year in the song lyric as \"… back in 1864.\" The correct song lyric is \"… back in 1694.\" This is corrected in the transcript for accuracy.]",
+     ""
+    ]
+   ],
+   "note": "editor's note cut (agreed after the sheet)",
+   "words before": 139,
+   "words after": 106
+  }
+ ],
+ "videos": [
+  {
+   "Record ID": "V173",
+   "Act": "Rickie Lee Jones",
+   "date": "2023-11-09",
+   "precision": "day",
+   "was": "2023-01-01",
+   "as typed": "november 9, 2023",
+   "note": ""
+  },
+  {
+   "Record ID": "V348",
+   "Act": "Irene Cara",
+   "date": "2021-04-17",
+   "precision": "day",
+   "was": "2021-01-01",
+   "as typed": "april 17, 2021",
+   "note": ""
+  },
+  {
+   "Record ID": "V803",
+   "Act": "The Go-Go's",
+   "date": "1981-01-01",
+   "precision": "year",
+   "was": "1981-01-01",
+   "as typed": "1981",
+   "note": ""
+  },
+  {
+   "Record ID": "V1664",
+   "Act": "Eurythmics",
+   "date": "1984-01-01",
+   "precision": "year",
+   "was": "1984-01-01",
+   "as typed": "1984",
+   "note": ""
+  },
+  {
+   "Record ID": "V1631",
+   "Act": "Eurythmics",
+   "date": "1984-01-01",
+   "precision": "year",
+   "was": "1984-01-01",
+   "as typed": "1984",
+   "note": ""
+  },
+  {
+   "Record ID": "V2656",
+   "Act": "Bruce Hornsby and the Range",
+   "date": "1993-07-29",
+   "precision": "day",
+   "was": "1993-01-01",
+   "as typed": "29 July 1993",
+   "note": ""
+  },
+  {
+   "Record ID": "V3433",
+   "Act": "Tracy Chapman",
+   "date": "1986-01-01",
+   "precision": "year",
+   "was": "1986-01-01",
+   "as typed": "1986",
+   "note": ""
+  }
+ ]
+}

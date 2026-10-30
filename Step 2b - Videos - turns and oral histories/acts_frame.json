@@ -1,0 +1,3480 @@
+{
+ "Dire Straits": {
+  "year": 1980,
+  "type": "Band",
+  "winner": false,
+  "search": "\"Dire Straits\"",
+  "member_search": "Dire Straits",
+  "members": [
+   "David Knopfler",
+   "John Illsley",
+   "Mark Knopfler",
+   "Pick Withers"
+  ],
+  "distinctive": [
+   "David Knopfler",
+   "John Illsley",
+   "Mark Knopfler",
+   "Pick Withers"
+  ],
+  "other_era": [
+   "Alan Clark",
+   "Guy Fletcher",
+   "Hal Lindes",
+   "Jack Sonni",
+   "Terry Williams"
+  ],
+  "names": [
+   [
+    "David Knopfler",
+    "David Knopfler",
+    "nomination",
+    true
+   ],
+   [
+    "John Illsley",
+    "John Illsley",
+    "nomination",
+    true
+   ],
+   [
+    "Mark Knopfler",
+    "Mark Knopfler",
+    "nomination",
+    true
+   ],
+   [
+    "David 'Pick' Withers",
+    "Pick Withers",
+    "nomination",
+    true
+   ],
+   [
+    "David Withers",
+    "Pick Withers",
+    "nomination",
+    false
+   ],
+   [
+    "Pick Withers",
+    "Pick Withers",
+    "nomination",
+    true
+   ],
+   [
+    "Alan Clark",
+    "Alan Clark",
+    "other",
+    false
+   ],
+   [
+    "Guy Fletcher",
+    "Guy Fletcher",
+    "other",
+    false
+   ],
+   [
+    "Hal Lindes",
+    "Hal Lindes",
+    "other",
+    false
+   ],
+   [
+    "Jack Sonni",
+    "Jack Sonni",
+    "other",
+    false
+   ],
+   [
+    "Terry Williams",
+    "Terry Williams",
+    "other",
+    false
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Rickie Lee Jones": {
+  "year": 1980,
+  "type": "Solo",
+  "winner": true,
+  "search": "\"Rickie Lee Jones\"",
+  "member_search": "Rickie Lee Jones",
+  "members": [],
+  "distinctive": [],
+  "other_era": [],
+  "names": [
+   [
+    "Rickie Lee Jones",
+    "Rickie Lee Jones",
+    "nomination",
+    true
+   ]
+  ],
+  "extra_queries": []
+ },
+ "The Knack": {
+  "year": 1980,
+  "type": "Band",
+  "winner": false,
+  "search": "\"The Knack\" band",
+  "member_search": "The Knack",
+  "members": [
+   "Berton Averre",
+   "Bruce Gary",
+   "Doug Fieger",
+   "Prescott Niles"
+  ],
+  "distinctive": [
+   "Berton Averre",
+   "Doug Fieger",
+   "Prescott Niles"
+  ],
+  "other_era": [
+   "Billy Ward",
+   "Pat Torpey",
+   "Phil Jost",
+   "Stephen 'Mac' McNally"
+  ],
+  "names": [
+   [
+    "Berton Averre",
+    "Berton Averre",
+    "nomination",
+    true
+   ],
+   [
+    "Burton Averre",
+    "Berton Averre",
+    "nomination",
+    true
+   ],
+   [
+    "Bruce Gary",
+    "Bruce Gary",
+    "nomination",
+    false
+   ],
+   [
+    "Doug Fieger",
+    "Doug Fieger",
+    "nomination",
+    true
+   ],
+   [
+    "Prescott Niles",
+    "Prescott Niles",
+    "nomination",
+    true
+   ],
+   [
+    "Billy Ward",
+    "Billy Ward",
+    "other",
+    false
+   ],
+   [
+    "Pat Torpey",
+    "Pat Torpey",
+    "other",
+    false
+   ],
+   [
+    "Phil Jost",
+    "Phil Jost",
+    "other",
+    false
+   ],
+   [
+    "Stephen 'Mac' McNally",
+    "Stephen 'Mac' McNally",
+    "other",
+    false
+   ],
+   [
+    "Stephen McNally",
+    "Stephen 'Mac' McNally",
+    "other",
+    false
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Amy Holland": {
+  "year": 1981,
+  "type": "Solo",
+  "winner": false,
+  "search": "\"Amy Holland\"",
+  "member_search": "Amy Holland",
+  "members": [],
+  "distinctive": [],
+  "other_era": [],
+  "names": [
+   [
+    "Amy Celeste Boersma",
+    "Amy Holland",
+    "nomination",
+    true
+   ],
+   [
+    "Amy Holland",
+    "Amy Holland",
+    "nomination",
+    true
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Christopher Cross": {
+  "year": 1981,
+  "type": "Solo",
+  "winner": true,
+  "search": "\"Christopher Cross\"",
+  "member_search": "Christopher Cross",
+  "members": [],
+  "distinctive": [],
+  "other_era": [],
+  "names": [
+   [
+    "Chris Cross",
+    "Christopher Cross",
+    "nomination",
+    false
+   ],
+   [
+    "Christopher 'Sailing' Cross",
+    "Christopher Cross",
+    "nomination",
+    true
+   ],
+   [
+    "Christopher Charles Geppert",
+    "Christopher Cross",
+    "nomination",
+    true
+   ],
+   [
+    "Christopher Cross",
+    "Christopher Cross",
+    "nomination",
+    true
+   ],
+   [
+    "Christopher Geppert",
+    "Christopher Cross",
+    "nomination",
+    true
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Irene Cara": {
+  "year": 1981,
+  "type": "Solo",
+  "winner": false,
+  "search": "\"Irene Cara\"",
+  "member_search": "Irene Cara",
+  "members": [],
+  "distinctive": [],
+  "other_era": [],
+  "names": [
+   [
+    "Irene Cara",
+    "Irene Cara",
+    "nomination",
+    true
+   ],
+   [
+    "Irene Cara Escalera",
+    "Irene Cara",
+    "nomination",
+    true
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Robbie Dupree": {
+  "year": 1981,
+  "type": "Solo",
+  "winner": false,
+  "search": "\"Robbie Dupree\"",
+  "member_search": "Robbie Dupree",
+  "members": [],
+  "distinctive": [],
+  "other_era": [],
+  "names": [
+   [
+    "Robbie Dupree",
+    "Robbie Dupree",
+    "nomination",
+    true
+   ],
+   [
+    "Robert Dupuis",
+    "Robbie Dupree",
+    "nomination",
+    false
+   ]
+  ],
+  "extra_queries": []
+ },
+ "The Pretenders": {
+  "year": 1981,
+  "type": "Band",
+  "winner": false,
+  "search": "\"Pretenders\"",
+  "member_search": "Pretenders",
+  "members": [
+   "Chrissie Hynde",
+   "James Honeyman-Scott",
+   "Martin Chambers",
+   "Pete Farndon"
+  ],
+  "distinctive": [
+   "Chrissie Hynde",
+   "James Honeyman-Scott",
+   "Pete Farndon"
+  ],
+  "other_era": [
+   "Adam Seymour",
+   "Andy Hobson",
+   "Blair Cunningham",
+   "Gerry Mcilduff",
+   "Johnny Marr",
+   "Malcolm Foster",
+   "Robbie McIntosh",
+   "T. M. Stevens"
+  ],
+  "names": [
+   [
+    "Chrissie Hynde",
+    "Chrissie Hynde",
+    "nomination",
+    true
+   ],
+   [
+    "Chrissy Hynde",
+    "Chrissie Hynde",
+    "nomination",
+    true
+   ],
+   [
+    "Christine Ellen Hynde",
+    "Chrissie Hynde",
+    "nomination",
+    true
+   ],
+   [
+    "James Honeyman-Scott",
+    "James Honeyman-Scott",
+    "nomination",
+    true
+   ],
+   [
+    "Jim Honeyman-Scott",
+    "James Honeyman-Scott",
+    "nomination",
+    true
+   ],
+   [
+    "Jimmy Scott",
+    "James Honeyman-Scott",
+    "nomination",
+    false
+   ],
+   [
+    "Martin Chambers",
+    "Martin Chambers",
+    "nomination",
+    false
+   ],
+   [
+    "Martin Dale Chambers",
+    "Martin Chambers",
+    "nomination",
+    false
+   ],
+   [
+    "Pete Farndon",
+    "Pete Farndon",
+    "nomination",
+    true
+   ],
+   [
+    "Peter Farndon",
+    "Pete Farndon",
+    "nomination",
+    true
+   ],
+   [
+    "Adam Seymour",
+    "Adam Seymour",
+    "other",
+    false
+   ],
+   [
+    "Andy Hobson",
+    "Andy Hobson",
+    "other",
+    false
+   ],
+   [
+    "Blair Cunningham",
+    "Blair Cunningham",
+    "other",
+    false
+   ],
+   [
+    "Gerry Mcilduff",
+    "Gerry Mcilduff",
+    "other",
+    false
+   ],
+   [
+    "Johnny Marr",
+    "Johnny Marr",
+    "other",
+    false
+   ],
+   [
+    "Malcolm Foster",
+    "Malcolm Foster",
+    "other",
+    false
+   ],
+   [
+    "Robbie McIntosh",
+    "Robbie McIntosh",
+    "other",
+    false
+   ],
+   [
+    "T. M. Stevens",
+    "T. M. Stevens",
+    "other",
+    false
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Adam and the Ants": {
+  "year": 1982,
+  "type": "Band",
+  "winner": false,
+  "search": "\"Adam and the Ants\"",
+  "member_search": "Adam and the Ants",
+  "members": [
+   "Adam Ant",
+   "Chris Hughes",
+   "Gary Tibbs",
+   "Marco Pirroni",
+   "Terry Lee Miall"
+  ],
+  "distinctive": [
+   "Adam Ant",
+   "Gary Tibbs",
+   "Marco Pirroni",
+   "Terry Lee Miall"
+  ],
+  "other_era": [
+   "Andy Warren",
+   "Dave Barbarossa",
+   "Johnny Bivouac",
+   "Jordan",
+   "Kevin Mooney",
+   "Leigh Gorman",
+   "Lester Square",
+   "Mark Ryan",
+   "Matthew Ashman",
+   "Paul Flanagan"
+  ],
+  "names": [
+   [
+    "Adam Ant",
+    "Adam Ant",
+    "nomination",
+    true
+   ],
+   [
+    "Stuart Goddard",
+    "Adam Ant",
+    "nomination",
+    true
+   ],
+   [
+    "Stuart Leslie Goddard",
+    "Adam Ant",
+    "nomination",
+    true
+   ],
+   [
+    "Chris 'Merrick' Hughes",
+    "Chris Hughes",
+    "nomination",
+    false
+   ],
+   [
+    "Chris Hughes",
+    "Chris Hughes",
+    "nomination",
+    false
+   ],
+   [
+    "Christopher Merrick Hughes",
+    "Chris Hughes",
+    "nomination",
+    false
+   ],
+   [
+    "Gary Brian Tibbs",
+    "Gary Tibbs",
+    "nomination",
+    true
+   ],
+   [
+    "Gary Tibbs",
+    "Gary Tibbs",
+    "nomination",
+    true
+   ],
+   [
+    "Marco Francesco Andrea Pirroni",
+    "Marco Pirroni",
+    "nomination",
+    true
+   ],
+   [
+    "Marco Pirroni",
+    "Marco Pirroni",
+    "nomination",
+    true
+   ],
+   [
+    "Terry Lee Miall",
+    "Terry Lee Miall",
+    "nomination",
+    true
+   ],
+   [
+    "Andy Warren",
+    "Andy Warren",
+    "other",
+    false
+   ],
+   [
+    "Dave 'Barbe' Barbarossa",
+    "Dave Barbarossa",
+    "other",
+    false
+   ],
+   [
+    "Dave Barbarossa",
+    "Dave Barbarossa",
+    "other",
+    false
+   ],
+   [
+    "Dave Barbe",
+    "Dave Barbarossa",
+    "other",
+    false
+   ],
+   [
+    "David Barbarossa",
+    "Dave Barbarossa",
+    "other",
+    false
+   ],
+   [
+    "Johnny Bivouac",
+    "Johnny Bivouac",
+    "other",
+    false
+   ],
+   [
+    "Pamela Rooke",
+    "Jordan",
+    "other",
+    false
+   ],
+   [
+    "Kevin Mooney",
+    "Kevin Mooney",
+    "other",
+    false
+   ],
+   [
+    "Kevin Paul Mooney",
+    "Kevin Mooney",
+    "other",
+    false
+   ],
+   [
+    "Leigh Gorman",
+    "Leigh Gorman",
+    "other",
+    false
+   ],
+   [
+    "Lester Square",
+    "Lester Square",
+    "other",
+    false
+   ],
+   [
+    "Thom Hardy",
+    "Lester Square",
+    "other",
+    false
+   ],
+   [
+    "Thomas Hardy",
+    "Lester Square",
+    "other",
+    false
+   ],
+   [
+    "Mark Ryan",
+    "Mark Ryan",
+    "other",
+    false
+   ],
+   [
+    "Matthew Ashman",
+    "Matthew Ashman",
+    "other",
+    false
+   ],
+   [
+    "Paul Flanagan",
+    "Paul Flanagan",
+    "other",
+    false
+   ]
+  ],
+  "extra_queries": []
+ },
+ "James Ingram": {
+  "year": 1982,
+  "type": "Solo",
+  "winner": false,
+  "search": "\"James Ingram\"",
+  "member_search": "James Ingram",
+  "members": [],
+  "distinctive": [],
+  "other_era": [],
+  "names": [
+   [
+    "James Ingram",
+    "James Ingram",
+    "nomination",
+    true
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Luther Vandross": {
+  "year": 1982,
+  "type": "Solo",
+  "winner": false,
+  "search": "\"Luther Vandross\"",
+  "member_search": "Luther Vandross",
+  "members": [],
+  "distinctive": [],
+  "other_era": [],
+  "names": [
+   [
+    "Luther Ronzoni Vandross",
+    "Luther Vandross",
+    "nomination",
+    true
+   ],
+   [
+    "Luther Vandross",
+    "Luther Vandross",
+    "nomination",
+    true
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Sheena Easton": {
+  "year": 1982,
+  "type": "Solo",
+  "winner": true,
+  "search": "\"Sheena Easton\"",
+  "member_search": "Sheena Easton",
+  "members": [],
+  "distinctive": [],
+  "other_era": [],
+  "names": [
+   [
+    "Sheena Easton",
+    "Sheena Easton",
+    "nomination",
+    true
+   ],
+   [
+    "Sheena Shirley Orr",
+    "Sheena Easton",
+    "nomination",
+    true
+   ]
+  ],
+  "extra_queries": []
+ },
+ "The Go-Go's": {
+  "year": 1982,
+  "type": "Band",
+  "winner": false,
+  "search": "\"Go-Go's\"",
+  "member_search": "Go-Go's",
+  "members": [
+   "Belinda Carlisle",
+   "Charlotte Caffey",
+   "Gina Schock",
+   "Jane Wiedlin",
+   "Kathy Valentine"
+  ],
+  "distinctive": [
+   "Belinda Carlisle",
+   "Charlotte Caffey",
+   "Gina Schock",
+   "Jane Wiedlin",
+   "Kathy Valentine"
+  ],
+  "other_era": [
+   "Elissa Bello",
+   "Margot Olavarria",
+   "Paula Jean Brown"
+  ],
+  "names": [
+   [
+    "Belinda Carlisle",
+    "Belinda Carlisle",
+    "nomination",
+    true
+   ],
+   [
+    "Charlotte Caffey",
+    "Charlotte Caffey",
+    "nomination",
+    true
+   ],
+   [
+    "Gina Schock",
+    "Gina Schock",
+    "nomination",
+    true
+   ],
+   [
+    "Jane Wiedlin",
+    "Jane Wiedlin",
+    "nomination",
+    true
+   ],
+   [
+    "Kathy Valentine",
+    "Kathy Valentine",
+    "nomination",
+    true
+   ],
+   [
+    "Elissa Bello",
+    "Elissa Bello",
+    "other",
+    false
+   ],
+   [
+    "Margot Olavarria",
+    "Margot Olavarria",
+    "other",
+    false
+   ],
+   [
+    "Paula Brown",
+    "Paula Jean Brown",
+    "other",
+    false
+   ],
+   [
+    "Paula Jean Brown",
+    "Paula Jean Brown",
+    "other",
+    false
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Asia": {
+  "year": 1983,
+  "type": "Band",
+  "winner": false,
+  "search": "\"Asia\" band",
+  "member_search": "Asia",
+  "members": [
+   "Carl Palmer",
+   "Geoff Downes",
+   "John Wetton",
+   "Steve Howe"
+  ],
+  "distinctive": [
+   "Carl Palmer",
+   "Geoff Downes",
+   "John Wetton",
+   "Steve Howe"
+  ],
+  "other_era": [
+   "Al Pitrelli",
+   "Greg Lake",
+   "John Payne",
+   "Mandy Meyer",
+   "Pat Thrall"
+  ],
+  "names": [
+   [
+    "Carl Palmer",
+    "Carl Palmer",
+    "nomination",
+    true
+   ],
+   [
+    "Geoff Downes",
+    "Geoff Downes",
+    "nomination",
+    true
+   ],
+   [
+    "Geoffrey Downes",
+    "Geoff Downes",
+    "nomination",
+    true
+   ],
+   [
+    "John 'Ken' Wetton",
+    "John Wetton",
+    "nomination",
+    true
+   ],
+   [
+    "John Kenneth Wetton",
+    "John Wetton",
+    "nomination",
+    true
+   ],
+   [
+    "John Wetton",
+    "John Wetton",
+    "nomination",
+    true
+   ],
+   [
+    "Steve Howe",
+    "Steve Howe",
+    "nomination",
+    true
+   ],
+   [
+    "Al Pitrelli",
+    "Al Pitrelli",
+    "other",
+    false
+   ],
+   [
+    "Greg Lake",
+    "Greg Lake",
+    "other",
+    false
+   ],
+   [
+    "John Payne",
+    "John Payne",
+    "other",
+    false
+   ],
+   [
+    "Mandy Meyer",
+    "Mandy Meyer",
+    "other",
+    false
+   ],
+   [
+    "Pat Thrall",
+    "Pat Thrall",
+    "other",
+    false
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Jennifer Holliday": {
+  "year": 1983,
+  "type": "Solo",
+  "winner": false,
+  "search": "\"Jennifer Holliday\"",
+  "member_search": "Jennifer Holliday",
+  "members": [],
+  "distinctive": [],
+  "other_era": [],
+  "names": [
+   [
+    "Jennifer Holliday",
+    "Jennifer Holliday",
+    "nomination",
+    true
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Men at Work": {
+  "year": 1983,
+  "type": "Band",
+  "winner": true,
+  "search": "\"Men at Work\" band",
+  "member_search": "Men at Work",
+  "members": [
+   "Colin Hay",
+   "Greg Ham",
+   "Jerry Speiser",
+   "John Rees",
+   "Ron Strykert"
+  ],
+  "distinctive": [
+   "Colin Hay",
+   "Jerry Speiser",
+   "Ron Strykert"
+  ],
+  "other_era": [],
+  "names": [
+   [
+    "Colin Hay",
+    "Colin Hay",
+    "nomination",
+    true
+   ],
+   [
+    "Greg Ham",
+    "Greg Ham",
+    "nomination",
+    false
+   ],
+   [
+    "Jerry Speiser",
+    "Jerry Speiser",
+    "nomination",
+    true
+   ],
+   [
+    "John Rees",
+    "John Rees",
+    "nomination",
+    false
+   ],
+   [
+    "Ron Strykert",
+    "Ron Strykert",
+    "nomination",
+    true
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Stray Cats": {
+  "year": 1983,
+  "type": "Band",
+  "winner": false,
+  "search": "\"Stray Cats\"",
+  "member_search": "Stray Cats",
+  "members": [
+   "Brian Setzer",
+   "Lee Rocker",
+   "Slim Jim Phantom"
+  ],
+  "distinctive": [
+   "Brian Setzer",
+   "Lee Rocker",
+   "Slim Jim Phantom"
+  ],
+  "other_era": [
+   "Bob Beecher",
+   "Gary Setzer",
+   "Tommy Byrnes"
+  ],
+  "names": [
+   [
+    "Brian Setzer",
+    "Brian Setzer",
+    "nomination",
+    true
+   ],
+   [
+    "Lee Drucker",
+    "Lee Rocker",
+    "nomination",
+    false
+   ],
+   [
+    "Lee Rocker",
+    "Lee Rocker",
+    "nomination",
+    true
+   ],
+   [
+    "Leon Drucker",
+    "Lee Rocker",
+    "nomination",
+    false
+   ],
+   [
+    "James McDonnell",
+    "Slim Jim Phantom",
+    "nomination",
+    false
+   ],
+   [
+    "Jim Phantom",
+    "Slim Jim Phantom",
+    "nomination",
+    true
+   ],
+   [
+    "Slim Jim Phantom",
+    "Slim Jim Phantom",
+    "nomination",
+    true
+   ],
+   [
+    "Bob Beecher",
+    "Bob Beecher",
+    "other",
+    false
+   ],
+   [
+    "Gary Setzer",
+    "Gary Setzer",
+    "other",
+    false
+   ],
+   [
+    "Tommy Byrnes",
+    "Tommy Byrnes",
+    "other",
+    false
+   ]
+  ],
+  "extra_queries": []
+ },
+ "The Human League": {
+  "year": 1983,
+  "type": "Band",
+  "winner": false,
+  "search": "\"Human League\"",
+  "member_search": "Human League",
+  "members": [
+   "Ian Burden",
+   "Jo Callis",
+   "Joanne Catherall",
+   "Philip Adrian Wright",
+   "Philip Oakey",
+   "Susan Ann Sulley"
+  ],
+  "distinctive": [
+   "Jo Callis",
+   "Joanne Catherall",
+   "Philip Oakey",
+   "Susan Ann Sulley"
+  ],
+  "other_era": [
+   "Ian Craig Marsh",
+   "Jim Russell",
+   "Martyn Ware",
+   "Neil Sutton",
+   "Russell Dennett"
+  ],
+  "names": [
+   [
+    "Ian Burden",
+    "Ian Burden",
+    "nomination",
+    false
+   ],
+   [
+    "Jo Callis",
+    "Jo Callis",
+    "nomination",
+    true
+   ],
+   [
+    "John William Callis",
+    "Jo Callis",
+    "nomination",
+    true
+   ],
+   [
+    "Joanne Catherall",
+    "Joanne Catherall",
+    "nomination",
+    true
+   ],
+   [
+    "Adrian Wright",
+    "Philip Adrian Wright",
+    "nomination",
+    false
+   ],
+   [
+    "Philip Adrian Wright",
+    "Philip Adrian Wright",
+    "nomination",
+    false
+   ],
+   [
+    "Philip Wright",
+    "Philip Adrian Wright",
+    "nomination",
+    false
+   ],
+   [
+    "Phil Oakey",
+    "Philip Oakey",
+    "nomination",
+    true
+   ],
+   [
+    "Philip Oakey",
+    "Philip Oakey",
+    "nomination",
+    true
+   ],
+   [
+    "Phillip Oakey",
+    "Philip Oakey",
+    "nomination",
+    true
+   ],
+   [
+    "Ann Sulley",
+    "Susan Ann Sulley",
+    "nomination",
+    false
+   ],
+   [
+    "Susan Ann Sulley",
+    "Susan Ann Sulley",
+    "nomination",
+    true
+   ],
+   [
+    "Susan Sulley",
+    "Susan Ann Sulley",
+    "nomination",
+    false
+   ],
+   [
+    "Susanne Sulley",
+    "Susan Ann Sulley",
+    "nomination",
+    true
+   ],
+   [
+    "Craig Marsh",
+    "Ian Craig Marsh",
+    "other",
+    false
+   ],
+   [
+    "Ian Craig Marsh",
+    "Ian Craig Marsh",
+    "other",
+    false
+   ],
+   [
+    "Ian Marsh",
+    "Ian Craig Marsh",
+    "other",
+    false
+   ],
+   [
+    "Jim Russell",
+    "Jim Russell",
+    "other",
+    false
+   ],
+   [
+    "Martin Ware",
+    "Martyn Ware",
+    "other",
+    false
+   ],
+   [
+    "Martyn Ware",
+    "Martyn Ware",
+    "other",
+    false
+   ],
+   [
+    "Neil Sutton",
+    "Neil Sutton",
+    "other",
+    false
+   ],
+   [
+    "Russell Dennett",
+    "Russell Dennett",
+    "other",
+    false
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Big Country": {
+  "year": 1984,
+  "type": "Band",
+  "winner": false,
+  "search": "\"Big Country\" band",
+  "member_search": "Big Country",
+  "members": [
+   "Bruce Watson",
+   "Mark Brzezicki",
+   "Stuart Adamson",
+   "Tony Butler"
+  ],
+  "distinctive": [
+   "Mark Brzezicki",
+   "Stuart Adamson"
+  ],
+  "other_era": [
+   "Alan Wishart",
+   "Clive Parker",
+   "Pat Ahern",
+   "Pete Wishart",
+   "Jamie Watson",
+   "Mike Peters",
+   "Derek Forbes",
+   "Simon Hough",
+   "Tommie Paxton",
+   "Chris Stones",
+   "Reece Dobbin"
+  ],
+  "names": [
+   [
+    "Bruce Watson",
+    "Bruce Watson",
+    "nomination",
+    false
+   ],
+   [
+    "Mark Brzezicki",
+    "Mark Brzezicki",
+    "nomination",
+    true
+   ],
+   [
+    "Stuart Adamson",
+    "Stuart Adamson",
+    "nomination",
+    true
+   ],
+   [
+    "William Stuart Adamson",
+    "Stuart Adamson",
+    "nomination",
+    true
+   ],
+   [
+    "Tony Butler",
+    "Tony Butler",
+    "nomination",
+    false
+   ],
+   [
+    "Alan Wishart",
+    "Alan Wishart",
+    "other",
+    false
+   ],
+   [
+    "Clive Parker",
+    "Clive Parker",
+    "other",
+    false
+   ],
+   [
+    "Pat Ahern",
+    "Pat Ahern",
+    "other",
+    false
+   ],
+   [
+    "Pete Wishart",
+    "Pete Wishart",
+    "other",
+    false
+   ],
+   [
+    "Peter Wishart",
+    "Pete Wishart",
+    "other",
+    false
+   ],
+   [
+    "Jamie Watson",
+    "Jamie Watson",
+    "other",
+    false
+   ],
+   [
+    "Mike Peters",
+    "Mike Peters",
+    "other",
+    false
+   ],
+   [
+    "Derek Forbes",
+    "Derek Forbes",
+    "other",
+    false
+   ],
+   [
+    "Simon Hough",
+    "Simon Hough",
+    "other",
+    false
+   ],
+   [
+    "Tommie Paxton",
+    "Tommie Paxton",
+    "other",
+    false
+   ],
+   [
+    "Chris Stones",
+    "Chris Stones",
+    "other",
+    false
+   ],
+   [
+    "Reece Dobbin",
+    "Reece Dobbin",
+    "other",
+    false
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Culture Club": {
+  "year": 1984,
+  "type": "Band",
+  "winner": true,
+  "search": "\"Culture Club\"",
+  "member_search": "Culture Club",
+  "members": [
+   "Boy George",
+   "Jon Moss",
+   "Mikey Craig",
+   "Roy Hay"
+  ],
+  "distinctive": [
+   "Boy George",
+   "Mikey Craig"
+  ],
+  "other_era": [
+   "Jon Suede"
+  ],
+  "names": [
+   [
+    "Boy George",
+    "Boy George",
+    "nomination",
+    true
+   ],
+   [
+    "George Alan O'Dowd",
+    "Boy George",
+    "nomination",
+    true
+   ],
+   [
+    "George O'Dowd",
+    "Boy George",
+    "nomination",
+    true
+   ],
+   [
+    "John Moss",
+    "Jon Moss",
+    "nomination",
+    false
+   ],
+   [
+    "Jon Moss",
+    "Jon Moss",
+    "nomination",
+    false
+   ],
+   [
+    "Jonathan Moss",
+    "Jon Moss",
+    "nomination",
+    false
+   ],
+   [
+    "Michael Craig",
+    "Mikey Craig",
+    "nomination",
+    false
+   ],
+   [
+    "Michael Emile Craig",
+    "Mikey Craig",
+    "nomination",
+    true
+   ],
+   [
+    "Mikey Craig",
+    "Mikey Craig",
+    "nomination",
+    true
+   ],
+   [
+    "Roy Hay",
+    "Roy Hay",
+    "nomination",
+    false
+   ],
+   [
+    "Jon Suede",
+    "Jon Suede",
+    "other",
+    false
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Eurythmics": {
+  "year": 1984,
+  "type": "Duo",
+  "winner": false,
+  "search": "\"Eurythmics\"",
+  "member_search": "Eurythmics",
+  "members": [
+   "Annie Lennox",
+   "Dave Stewart"
+  ],
+  "distinctive": [
+   "Annie Lennox"
+  ],
+  "other_era": [],
+  "names": [
+   [
+    "Ann Lennox",
+    "Annie Lennox",
+    "nomination",
+    true
+   ],
+   [
+    "Annie Lennox",
+    "Annie Lennox",
+    "nomination",
+    true
+   ],
+   [
+    "Dave Stewart",
+    "Dave Stewart",
+    "nomination",
+    false
+   ],
+   [
+    "David A. Stewart",
+    "Dave Stewart",
+    "nomination",
+    false
+   ],
+   [
+    "David Allan Stewart",
+    "Dave Stewart",
+    "nomination",
+    false
+   ],
+   [
+    "David Stewart",
+    "Dave Stewart",
+    "nomination",
+    false
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Men Without Hats": {
+  "year": 1984,
+  "type": "Band",
+  "winner": false,
+  "search": "\"Men Without Hats\"",
+  "member_search": "Men Without Hats",
+  "members": [
+   "Allan McCarthy",
+   "Colin Doroschuk",
+   "Ivan Doroschuk",
+   "Stefan Doroschuk"
+  ],
+  "distinctive": [
+   "Colin Doroschuk",
+   "Ivan Doroschuk",
+   "Stefan Doroschuk"
+  ],
+  "other_era": [
+   "Al Gunn",
+   "Bruce Murphy",
+   "Dave Hill",
+   "Denis Toupin",
+   "Félix Matte",
+   "Heidi Garcia",
+   "Jean-Marc Pisapia",
+   "John Gurrin",
+   "John Kastner",
+   "Johnny Souranis",
+   "Jérémie Arrobas",
+   "Lenny Pinkas",
+   "Lysanne Thibodeau",
+   "Marika Tjelios",
+   "Michel Langevin",
+   "Pete Seabrooke",
+   "Pierre Taillefer",
+   "Richard Samson",
+   "Roman Martyn",
+   "Tracy Howe"
+  ],
+  "names": [
+   [
+    "Alan McCarthy",
+    "Allan McCarthy",
+    "nomination",
+    false
+   ],
+   [
+    "Allan McCarthy",
+    "Allan McCarthy",
+    "nomination",
+    false
+   ],
+   [
+    "Colin Doroschuk",
+    "Colin Doroschuk",
+    "nomination",
+    true
+   ],
+   [
+    "Ivan Doroschuk",
+    "Ivan Doroschuk",
+    "nomination",
+    true
+   ],
+   [
+    "Stefan Doroschuk",
+    "Stefan Doroschuk",
+    "nomination",
+    true
+   ],
+   [
+    "Al Gunn",
+    "Al Gunn",
+    "other",
+    false
+   ],
+   [
+    "Alain Lefebvre",
+    "Al Gunn",
+    "other",
+    false
+   ],
+   [
+    "Bruce Murphy",
+    "Bruce Murphy",
+    "other",
+    false
+   ],
+   [
+    "Dave Hill",
+    "Dave Hill",
+    "other",
+    false
+   ],
+   [
+    "Denis Toupin",
+    "Denis Toupin",
+    "other",
+    false
+   ],
+   [
+    "Félix Matte",
+    "Félix Matte",
+    "other",
+    false
+   ],
+   [
+    "Heidi Garcia",
+    "Heidi Garcia",
+    "other",
+    false
+   ],
+   [
+    "Jean-Marc Pisapia",
+    "Jean-Marc Pisapia",
+    "other",
+    false
+   ],
+   [
+    "John Gurrin",
+    "John Gurrin",
+    "other",
+    false
+   ],
+   [
+    "John Kastner",
+    "John Kastner",
+    "other",
+    false
+   ],
+   [
+    "Johnny Souranis",
+    "Johnny Souranis",
+    "other",
+    false
+   ],
+   [
+    "Jeremie Arrobas",
+    "Jérémie Arrobas",
+    "other",
+    false
+   ],
+   [
+    "Jérémie Arrobas",
+    "Jérémie Arrobas",
+    "other",
+    false
+   ],
+   [
+    "Lenny Pinkas",
+    "Lenny Pinkas",
+    "other",
+    false
+   ],
+   [
+    "Lysanne Thibodeau",
+    "Lysanne Thibodeau",
+    "other",
+    false
+   ],
+   [
+    "Marika Tjelios",
+    "Marika Tjelios",
+    "other",
+    false
+   ],
+   [
+    "Michel 'Away' Langevin",
+    "Michel Langevin",
+    "other",
+    false
+   ],
+   [
+    "Michel Langevin",
+    "Michel Langevin",
+    "other",
+    false
+   ],
+   [
+    "Pete Seabrooke",
+    "Pete Seabrooke",
+    "other",
+    false
+   ],
+   [
+    "Pierre Taillefer",
+    "Pierre Taillefer",
+    "other",
+    false
+   ],
+   [
+    "Richard Samson",
+    "Richard Samson",
+    "other",
+    false
+   ],
+   [
+    "Roman Martyn",
+    "Roman Martyn",
+    "other",
+    false
+   ],
+   [
+    "Tracy Howe",
+    "Tracy Howe",
+    "other",
+    false
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Musical Youth": {
+  "year": 1984,
+  "type": "Band",
+  "winner": false,
+  "search": "\"Musical Youth\" band",
+  "member_search": "Musical Youth",
+  "members": [
+   "Dennis Seaton",
+   "Frederick Waite",
+   "Kelvin Grant",
+   "Michael Grant",
+   "Patrick Waite"
+  ],
+  "distinctive": [
+   "Frederick Waite",
+   "Kelvin Grant"
+  ],
+  "other_era": [
+   "Frederick Waite Sr."
+  ],
+  "names": [
+   [
+    "Dennis Seaton",
+    "Dennis Seaton",
+    "nomination",
+    false
+   ],
+   [
+    "Freddie 'Junior' Waite",
+    "Frederick Waite",
+    "nomination",
+    true
+   ],
+   [
+    "Frederick Waite",
+    "Frederick Waite",
+    "nomination",
+    true
+   ],
+   [
+    "Junior Waite",
+    "Frederick Waite",
+    "nomination",
+    true
+   ],
+   [
+    "Kelvin Grant",
+    "Kelvin Grant",
+    "nomination",
+    true
+   ],
+   [
+    "Michael Grant",
+    "Michael Grant",
+    "nomination",
+    false
+   ],
+   [
+    "Mike Grant",
+    "Michael Grant",
+    "nomination",
+    false
+   ],
+   [
+    "Patrick Waite",
+    "Patrick Waite",
+    "nomination",
+    false
+   ],
+   [
+    "Frederick Waite Sr.",
+    "Frederick Waite Sr.",
+    "other",
+    false
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Corey Hart": {
+  "year": 1985,
+  "type": "Solo",
+  "winner": false,
+  "search": "\"Corey Hart\" singer",
+  "member_search": "Corey Hart",
+  "members": [],
+  "distinctive": [],
+  "other_era": [],
+  "names": [
+   [
+    "Corey Hart",
+    "Corey Hart",
+    "nomination",
+    true
+   ],
+   [
+    "Corey Mitchell Hart",
+    "Corey Hart",
+    "nomination",
+    true
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Cyndi Lauper": {
+  "year": 1985,
+  "type": "Solo",
+  "winner": true,
+  "search": "\"Cyndi Lauper\"",
+  "member_search": "Cyndi Lauper",
+  "members": [],
+  "distinctive": [],
+  "other_era": [],
+  "names": [
+   [
+    "Cindy Lauper",
+    "Cyndi Lauper",
+    "nomination",
+    true
+   ],
+   [
+    "Cyndi Lauper",
+    "Cyndi Lauper",
+    "nomination",
+    true
+   ],
+   [
+    "Cynthia Ann Stephanie Lauper",
+    "Cyndi Lauper",
+    "nomination",
+    true
+   ],
+   [
+    "Cynthia Lauper",
+    "Cyndi Lauper",
+    "nomination",
+    true
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Frankie Goes to Hollywood": {
+  "year": 1985,
+  "type": "Band",
+  "winner": false,
+  "search": "\"Frankie Goes to Hollywood\"",
+  "member_search": "Frankie Goes to Hollywood",
+  "members": [
+   "Brian Nash",
+   "Holly Johnson",
+   "Mark O'Toole",
+   "Paul Rutherford",
+   "Peter Gill"
+  ],
+  "distinctive": [
+   "Holly Johnson"
+  ],
+  "other_era": [
+   "Ambrose Reynolds",
+   "Jed O'Toole"
+  ],
+  "names": [
+   [
+    "Brian 'Nasher' Nash",
+    "Brian Nash",
+    "nomination",
+    false
+   ],
+   [
+    "Brian Nash",
+    "Brian Nash",
+    "nomination",
+    false
+   ],
+   [
+    "Holly Johnson",
+    "Holly Johnson",
+    "nomination",
+    true
+   ],
+   [
+    "William 'Holly' Johnson",
+    "Holly Johnson",
+    "nomination",
+    true
+   ],
+   [
+    "William Johnson",
+    "Holly Johnson",
+    "nomination",
+    false
+   ],
+   [
+    "Mark O'Toole",
+    "Mark O'Toole",
+    "nomination",
+    false
+   ],
+   [
+    "Paul Rutherford",
+    "Paul Rutherford",
+    "nomination",
+    false
+   ],
+   [
+    "Peter 'Ped' Gill",
+    "Peter Gill",
+    "nomination",
+    false
+   ],
+   [
+    "Peter Gill",
+    "Peter Gill",
+    "nomination",
+    false
+   ],
+   [
+    "Ambrose Reynolds",
+    "Ambrose Reynolds",
+    "other",
+    false
+   ],
+   [
+    "Jed O'Toole",
+    "Jed O'Toole",
+    "other",
+    false
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Sheila E.": {
+  "year": 1985,
+  "type": "Solo",
+  "winner": false,
+  "search": "\"Sheila E\"",
+  "member_search": "Sheila E.",
+  "members": [],
+  "distinctive": [],
+  "other_era": [],
+  "names": [
+   [
+    "Sheila Cecelia Escovedo",
+    "Sheila E.",
+    "nomination",
+    true
+   ],
+   [
+    "Sheila Cecilia Escovedo",
+    "Sheila E.",
+    "nomination",
+    true
+   ],
+   [
+    "Sheila E.",
+    "Sheila E.",
+    "nomination",
+    true
+   ],
+   [
+    "Sheila Escovedo",
+    "Sheila E.",
+    "nomination",
+    true
+   ]
+  ],
+  "extra_queries": []
+ },
+ "The Judds": {
+  "year": 1985,
+  "type": "Duo",
+  "winner": false,
+  "search": "\"The Judds\"",
+  "member_search": "Judds",
+  "members": [
+   "Naomi Judd",
+   "Wynonna Judd"
+  ],
+  "distinctive": [
+   "Naomi Judd",
+   "Wynonna Judd"
+  ],
+  "other_era": [],
+  "names": [
+   [
+    "Diana Ciminella",
+    "Naomi Judd",
+    "nomination",
+    true
+   ],
+   [
+    "Diana Ellen Judd",
+    "Naomi Judd",
+    "nomination",
+    true
+   ],
+   [
+    "Diana Judd",
+    "Naomi Judd",
+    "nomination",
+    false
+   ],
+   [
+    "Naomi Judd",
+    "Naomi Judd",
+    "nomination",
+    true
+   ],
+   [
+    "Christina Ciminella",
+    "Wynonna Judd",
+    "nomination",
+    true
+   ],
+   [
+    "Christina Claire Ciminella",
+    "Wynonna Judd",
+    "nomination",
+    true
+   ],
+   [
+    "Wynonna",
+    "Wynonna Judd",
+    "nomination",
+    true
+   ],
+   [
+    "Wynonna Ellen Judd Moser",
+    "Wynonna Judd",
+    "nomination",
+    true
+   ],
+   [
+    "Wynonna Judd",
+    "Wynonna Judd",
+    "nomination",
+    true
+   ]
+  ],
+  "extra_queries": []
+ },
+ "a-ha": {
+  "year": 1986,
+  "type": "Band",
+  "winner": false,
+  "search": "\"a-ha\" band",
+  "member_search": "a-ha",
+  "members": [
+   "Magne Furuholmen",
+   "Morten Harket",
+   "Paul Waaktaar-Savoy"
+  ],
+  "distinctive": [
+   "Magne Furuholmen",
+   "Morten Harket",
+   "Paul Waaktaar-Savoy"
+  ],
+  "other_era": [],
+  "names": [
+   [
+    "Magne 'Mags' Furuholmen",
+    "Magne Furuholmen",
+    "nomination",
+    true
+   ],
+   [
+    "Magne Furuholmen",
+    "Magne Furuholmen",
+    "nomination",
+    true
+   ],
+   [
+    "Morten Harket",
+    "Morten Harket",
+    "nomination",
+    true
+   ],
+   [
+    "Paul Waaktaar",
+    "Paul Waaktaar-Savoy",
+    "nomination",
+    true
+   ],
+   [
+    "Paul Waaktaar-Savoy",
+    "Paul Waaktaar-Savoy",
+    "nomination",
+    true
+   ],
+   [
+    "Pål Waaktaar",
+    "Paul Waaktaar-Savoy",
+    "nomination",
+    true
+   ],
+   [
+    "Pål Waaktaar Gamst",
+    "Paul Waaktaar-Savoy",
+    "nomination",
+    true
+   ],
+   [
+    "Pål Waaktaar-Savoy",
+    "Paul Waaktaar-Savoy",
+    "nomination",
+    true
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Freddie Jackson": {
+  "year": 1986,
+  "type": "Solo",
+  "winner": false,
+  "search": "\"Freddie Jackson\"",
+  "member_search": "Freddie Jackson",
+  "members": [],
+  "distinctive": [],
+  "other_era": [],
+  "names": [
+   [
+    "Freddie Jackson",
+    "Freddie Jackson",
+    "nomination",
+    true
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Julian Lennon": {
+  "year": 1986,
+  "type": "Solo",
+  "winner": false,
+  "search": "\"Julian Lennon\"",
+  "member_search": "Julian Lennon",
+  "members": [],
+  "distinctive": [],
+  "other_era": [],
+  "names": [
+   [
+    "John Charles Julian Lennon",
+    "Julian Lennon",
+    "nomination",
+    true
+   ],
+   [
+    "Julian Lennon",
+    "Julian Lennon",
+    "nomination",
+    true
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Katrina and the Waves": {
+  "year": 1986,
+  "type": "Band",
+  "winner": false,
+  "search": "\"Katrina and the Waves\"",
+  "member_search": "Katrina and the Waves",
+  "members": [
+   "Alex Cooper",
+   "Katrina Leskanich",
+   "Kimberley Rew",
+   "Vince de la Cruz"
+  ],
+  "distinctive": [
+   "Katrina Leskanich",
+   "Kimberley Rew"
+  ],
+  "other_era": [
+   "Bob Jakins"
+  ],
+  "names": [
+   [
+    "Alex Cooper",
+    "Alex Cooper",
+    "nomination",
+    false
+   ],
+   [
+    "Katrina Leskanich",
+    "Katrina Leskanich",
+    "nomination",
+    true
+   ],
+   [
+    "Kimberley Rew",
+    "Kimberley Rew",
+    "nomination",
+    true
+   ],
+   [
+    "Kimberly Rew",
+    "Kimberley Rew",
+    "nomination",
+    true
+   ],
+   [
+    "Vince de la Cruz",
+    "Vince de la Cruz",
+    "nomination",
+    false
+   ],
+   [
+    "Bob Jakins",
+    "Bob Jakins",
+    "other",
+    false
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Sade": {
+  "year": 1986,
+  "type": "Band",
+  "winner": true,
+  "search": "\"Sade\"",
+  "member_search": "Sade",
+  "members": [
+   "Andrew Hale",
+   "Paul S. Denman",
+   "Sade Adu",
+   "Stuart Matthewman"
+  ],
+  "distinctive": [
+   "Paul S. Denman",
+   "Sade Adu",
+   "Stuart Matthewman"
+  ],
+  "other_era": [
+   "Dave Early",
+   "Paul Anthony Cooke"
+  ],
+  "names": [
+   [
+    "Andrew 'AJ' Hale",
+    "Andrew Hale",
+    "nomination",
+    false
+   ],
+   [
+    "Andrew Hale",
+    "Andrew Hale",
+    "nomination",
+    false
+   ],
+   [
+    "Andy Hale",
+    "Andrew Hale",
+    "nomination",
+    false
+   ],
+   [
+    "Paul Denman",
+    "Paul S. Denman",
+    "nomination",
+    true
+   ],
+   [
+    "Paul S. Denman",
+    "Paul S. Denman",
+    "nomination",
+    true
+   ],
+   [
+    "Paul Spencer Denman",
+    "Paul S. Denman",
+    "nomination",
+    true
+   ],
+   [
+    "Folasade Adu",
+    "Sade Adu",
+    "nomination",
+    true
+   ],
+   [
+    "Helen Adu",
+    "Sade Adu",
+    "nomination",
+    true
+   ],
+   [
+    "Helen Folasade Adu",
+    "Sade Adu",
+    "nomination",
+    true
+   ],
+   [
+    "Sade Adu",
+    "Sade Adu",
+    "nomination",
+    true
+   ],
+   [
+    "Stewart Matthewman",
+    "Stuart Matthewman",
+    "nomination",
+    true
+   ],
+   [
+    "Stuart Matthewman",
+    "Stuart Matthewman",
+    "nomination",
+    true
+   ],
+   [
+    "Dave Early",
+    "Dave Early",
+    "other",
+    false
+   ],
+   [
+    "Paul Anthony Cook",
+    "Paul Anthony Cooke",
+    "other",
+    false
+   ],
+   [
+    "Paul Anthony Cooke",
+    "Paul Anthony Cooke",
+    "other",
+    false
+   ],
+   [
+    "Paul Cooke",
+    "Paul Anthony Cooke",
+    "other",
+    false
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Bruce Hornsby and the Range": {
+  "year": 1987,
+  "type": "Band",
+  "winner": true,
+  "search": "\"Bruce Hornsby\"",
+  "member_search": "Bruce Hornsby",
+  "members": [
+   "Bruce Hornsby",
+   "David Mansfield",
+   "George Marinelli",
+   "Joe Puerta",
+   "John Molo",
+   "Peter Harris"
+  ],
+  "distinctive": [
+   "Bruce Hornsby",
+   "George Marinelli",
+   "Joe Puerta",
+   "John Molo"
+  ],
+  "other_era": [
+   "J. T. Thomas"
+  ],
+  "names": [
+   [
+    "Bruce Hornsby",
+    "Bruce Hornsby",
+    "nomination",
+    true
+   ],
+   [
+    "David Mansfield",
+    "David Mansfield",
+    "nomination",
+    false
+   ],
+   [
+    "George Marinelli",
+    "George Marinelli",
+    "nomination",
+    true
+   ],
+   [
+    "Joe Puerta",
+    "Joe Puerta",
+    "nomination",
+    true
+   ],
+   [
+    "Joseph Puerta",
+    "Joe Puerta",
+    "nomination",
+    false
+   ],
+   [
+    "John Molo",
+    "John Molo",
+    "nomination",
+    true
+   ],
+   [
+    "Pete Harris",
+    "Peter Harris",
+    "nomination",
+    false
+   ],
+   [
+    "Peter Harris",
+    "Peter Harris",
+    "nomination",
+    false
+   ],
+   [
+    "J. T. Thomas",
+    "J. T. Thomas",
+    "other",
+    false
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Glass Tiger": {
+  "year": 1987,
+  "type": "Band",
+  "winner": false,
+  "search": "\"Glass Tiger\"",
+  "member_search": "Glass Tiger",
+  "members": [
+   "Al Connelly",
+   "Alan Frew",
+   "Michael Hanson",
+   "Sam Reid",
+   "Wayne Parker"
+  ],
+  "distinctive": [
+   "Alan Frew"
+  ],
+  "other_era": [],
+  "names": [
+   [
+    "Al Connelly",
+    "Al Connelly",
+    "nomination",
+    false
+   ],
+   [
+    "Alan Frew",
+    "Alan Frew",
+    "nomination",
+    true
+   ],
+   [
+    "Michael Hanson",
+    "Michael Hanson",
+    "nomination",
+    false
+   ],
+   [
+    "Sam Reid",
+    "Sam Reid",
+    "nomination",
+    false
+   ],
+   [
+    "Wayne Parker",
+    "Wayne Parker",
+    "nomination",
+    false
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Nu Shooz": {
+  "year": 1987,
+  "type": "Duo",
+  "winner": false,
+  "search": "\"Nu Shooz\"",
+  "member_search": "Nu Shooz",
+  "members": [
+   "John Smith",
+   "Valerie Day"
+  ],
+  "distinctive": [],
+  "other_era": [],
+  "names": [
+   [
+    "John Smith",
+    "John Smith",
+    "nomination",
+    false
+   ],
+   [
+    "Valerie Day",
+    "Valerie Day",
+    "nomination",
+    false
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Simply Red": {
+  "year": 1987,
+  "type": "Band",
+  "winner": false,
+  "search": "\"Simply Red\"",
+  "member_search": "Simply Red",
+  "members": [
+   "Chris Joyce",
+   "Fritz McIntyre",
+   "Ian Kirkham",
+   "Mick Hucknall",
+   "Sylvan Richardson",
+   "Tim Kellett",
+   "Tony Bowers"
+  ],
+  "distinctive": [
+   "Fritz McIntyre",
+   "Mick Hucknall",
+   "Sylvan Richardson"
+  ],
+  "other_era": [
+   "Aziz Ibrahim",
+   "David Fryman",
+   "Gota Yashiki",
+   "Heitor Pereira",
+   "Shaun Ward"
+  ],
+  "names": [
+   [
+    "Chris Joyce",
+    "Chris Joyce",
+    "nomination",
+    false
+   ],
+   [
+    "Fritz McIntyre",
+    "Fritz McIntyre",
+    "nomination",
+    true
+   ],
+   [
+    "Ian Kirkham",
+    "Ian Kirkham",
+    "nomination",
+    false
+   ],
+   [
+    "Michael Hucknall",
+    "Mick Hucknall",
+    "nomination",
+    false
+   ],
+   [
+    "Michael James Hucknall",
+    "Mick Hucknall",
+    "nomination",
+    true
+   ],
+   [
+    "Mick 'Hucko' Hucknall",
+    "Mick Hucknall",
+    "nomination",
+    true
+   ],
+   [
+    "Mick 'Red' Hucknall",
+    "Mick Hucknall",
+    "nomination",
+    true
+   ],
+   [
+    "Mick Hucknall",
+    "Mick Hucknall",
+    "nomination",
+    true
+   ],
+   [
+    "Sylvan Richardson",
+    "Sylvan Richardson",
+    "nomination",
+    true
+   ],
+   [
+    "Tim Kellett",
+    "Tim Kellett",
+    "nomination",
+    false
+   ],
+   [
+    "Tony Bowers",
+    "Tony Bowers",
+    "nomination",
+    false
+   ],
+   [
+    "Aziz Ibrahim",
+    "Aziz Ibrahim",
+    "other",
+    false
+   ],
+   [
+    "David Fryman",
+    "David Fryman",
+    "other",
+    false
+   ],
+   [
+    "Gota Yashiki",
+    "Gota Yashiki",
+    "other",
+    false
+   ],
+   [
+    "Heitor Pereira",
+    "Heitor Pereira",
+    "other",
+    false
+   ],
+   [
+    "Heitor TP",
+    "Heitor Pereira",
+    "other",
+    false
+   ],
+   [
+    "Shaun Ward",
+    "Shaun Ward",
+    "other",
+    false
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Timbuk3": {
+  "year": 1987,
+  "type": "Duo",
+  "winner": false,
+  "search": "\"Timbuk 3\"",
+  "member_search": "Timbuk 3",
+  "members": [
+   "Barbara K. MacDonald",
+   "Pat MacDonald"
+  ],
+  "distinctive": [
+   "Barbara K. MacDonald"
+  ],
+  "other_era": [
+   "Courtney Audain",
+   "Wally Ingram"
+  ],
+  "names": [
+   [
+    "Barbara K",
+    "Barbara K. MacDonald",
+    "nomination",
+    true
+   ],
+   [
+    "Barbara K. MacDonald",
+    "Barbara K. MacDonald",
+    "nomination",
+    true
+   ],
+   [
+    "Barbara Kooyman",
+    "Barbara K. MacDonald",
+    "nomination",
+    true
+   ],
+   [
+    "Pat MacDonald",
+    "Pat MacDonald",
+    "nomination",
+    false
+   ],
+   [
+    "Courtney Audain",
+    "Courtney Audain",
+    "other",
+    false
+   ],
+   [
+    "Wally Ingram",
+    "Wally Ingram",
+    "other",
+    false
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Breakfast Club": {
+  "year": 1988,
+  "type": "Band",
+  "winner": false,
+  "search": "\"Breakfast Club\" band Gilroy",
+  "member_search": "Breakfast Club",
+  "members": [
+   "Dan Gilroy",
+   "Ed Gilroy",
+   "Gary Burke",
+   "Paul Kauk",
+   "Randy Jackson",
+   "Stephen Bray"
+  ],
+  "distinctive": [
+   "Paul Kauk"
+  ],
+  "other_era": [
+   "Angie Smit",
+   "Madonna"
+  ],
+  "names": [
+   [
+    "Dan Gilroy",
+    "Dan Gilroy",
+    "nomination",
+    false
+   ],
+   [
+    "Ed Gilroy",
+    "Ed Gilroy",
+    "nomination",
+    false
+   ],
+   [
+    "Eddie Gilroy",
+    "Ed Gilroy",
+    "nomination",
+    false
+   ],
+   [
+    "Gary Burke",
+    "Gary Burke",
+    "nomination",
+    false
+   ],
+   [
+    "Paul Kauk",
+    "Paul Kauk",
+    "nomination",
+    true
+   ],
+   [
+    "Randy Jackson",
+    "Randy Jackson",
+    "nomination",
+    false
+   ],
+   [
+    "Stephen Bray",
+    "Stephen Bray",
+    "nomination",
+    false
+   ],
+   [
+    "Steve Bray",
+    "Stephen Bray",
+    "nomination",
+    false
+   ],
+   [
+    "Angie Schmit",
+    "Angie Smit",
+    "other",
+    false
+   ],
+   [
+    "Angie Smit",
+    "Angie Smit",
+    "other",
+    false
+   ],
+   [
+    "Madonna",
+    "Madonna",
+    "other",
+    false
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Cutting Crew": {
+  "year": 1988,
+  "type": "Band",
+  "winner": false,
+  "search": "\"Cutting Crew\"",
+  "member_search": "Cutting Crew",
+  "members": [
+   "Colin Farley",
+   "Kevin MacMichael",
+   "Martin Beedle",
+   "Nick Van Eede",
+   "Tony Moore"
+  ],
+  "distinctive": [
+   "Kevin MacMichael",
+   "Nick Van Eede"
+  ],
+  "other_era": [],
+  "names": [
+   [
+    "Colin Farley",
+    "Colin Farley",
+    "nomination",
+    false
+   ],
+   [
+    "Kevin MacMichael",
+    "Kevin MacMichael",
+    "nomination",
+    true
+   ],
+   [
+    "Kevin Scott MacMichael",
+    "Kevin MacMichael",
+    "nomination",
+    true
+   ],
+   [
+    "Frosty Beedle",
+    "Martin Beedle",
+    "nomination",
+    false
+   ],
+   [
+    "Martin 'Frosty' Beedle",
+    "Martin Beedle",
+    "nomination",
+    false
+   ],
+   [
+    "Martin Beedle",
+    "Martin Beedle",
+    "nomination",
+    false
+   ],
+   [
+    "Martin Philip Beedle",
+    "Martin Beedle",
+    "nomination",
+    false
+   ],
+   [
+    "Nicholas Eede",
+    "Nick Van Eede",
+    "nomination",
+    true
+   ],
+   [
+    "Nicholas Van Eede",
+    "Nick Van Eede",
+    "nomination",
+    true
+   ],
+   [
+    "Nick Eede",
+    "Nick Van Eede",
+    "nomination",
+    false
+   ],
+   [
+    "Nick Van Eede",
+    "Nick Van Eede",
+    "nomination",
+    true
+   ],
+   [
+    "Van Eede",
+    "Nick Van Eede",
+    "nomination",
+    false
+   ],
+   [
+    "Tony Moore",
+    "Tony Moore",
+    "nomination",
+    false
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Jody Watley": {
+  "year": 1988,
+  "type": "Solo",
+  "winner": true,
+  "search": "\"Jody Watley\"",
+  "member_search": "Jody Watley",
+  "members": [],
+  "distinctive": [],
+  "other_era": [],
+  "names": [
+   [
+    "Jody Watley",
+    "Jody Watley",
+    "nomination",
+    true
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Swing Out Sister": {
+  "year": 1988,
+  "type": "Band/Duo",
+  "winner": false,
+  "search": "\"Swing Out Sister\"",
+  "member_search": "Swing Out Sister",
+  "members": [
+   "Andy Connell",
+   "Corinne Drewery",
+   "Martin Jackson"
+  ],
+  "distinctive": [
+   "Corinne Drewery"
+  ],
+  "other_era": [],
+  "names": [
+   [
+    "Andrew Connell",
+    "Andy Connell",
+    "nomination",
+    false
+   ],
+   [
+    "Andy Connell",
+    "Andy Connell",
+    "nomination",
+    false
+   ],
+   [
+    "Corinne Drewery",
+    "Corinne Drewery",
+    "nomination",
+    true
+   ],
+   [
+    "Corrine Drewery",
+    "Corinne Drewery",
+    "nomination",
+    true
+   ],
+   [
+    "Martin Jackson",
+    "Martin Jackson",
+    "nomination",
+    false
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Terence Trent D'Arby": {
+  "year": 1988,
+  "type": "Solo",
+  "winner": false,
+  "search": "\"Terence Trent D'Arby\"",
+  "member_search": "Terence Trent D'Arby",
+  "members": [],
+  "distinctive": [],
+  "other_era": [],
+  "names": [
+   [
+    "Francesco Maitreya",
+    "Terence Trent D'Arby",
+    "nomination",
+    true
+   ],
+   [
+    "Sananda Francesco Maitreya",
+    "Terence Trent D'Arby",
+    "nomination",
+    true
+   ],
+   [
+    "Sananda Maitreya",
+    "Terence Trent D'Arby",
+    "nomination",
+    true
+   ],
+   [
+    "Terence Trent D'Arby",
+    "Terence Trent D'Arby",
+    "nomination",
+    true
+   ],
+   [
+    "Terence Trent Howard",
+    "Terence Trent D'Arby",
+    "nomination",
+    true
+   ],
+   [
+    "Terence Trent Susan Whitfield",
+    "Terence Trent D'Arby",
+    "nomination",
+    true
+   ],
+   [
+    "Trent D'Arby",
+    "Terence Trent D'Arby",
+    "nomination",
+    true
+   ]
+  ],
+  "extra_queries": [
+   "\"Sananda Maitreya\" interview"
+  ]
+ },
+ "Rick Astley": {
+  "year": 1989,
+  "type": "Solo",
+  "winner": false,
+  "search": "\"Rick Astley\"",
+  "member_search": "Rick Astley",
+  "members": [],
+  "distinctive": [],
+  "other_era": [],
+  "names": [
+   [
+    "Richard Paul Astley",
+    "Rick Astley",
+    "nomination",
+    true
+   ],
+   [
+    "Rick Astley",
+    "Rick Astley",
+    "nomination",
+    true
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Take 6": {
+  "year": 1989,
+  "type": "Group",
+  "winner": false,
+  "search": "\"Take 6\" a cappella",
+  "member_search": "Take 6",
+  "members": [
+   "Alvin Chea",
+   "Cedric Dent",
+   "Claude McKnight",
+   "David Thomas",
+   "Mark Kibble",
+   "Mervyn Warren"
+  ],
+  "distinctive": [
+   "Alvin Chea",
+   "Claude McKnight",
+   "Mark Kibble",
+   "Mervyn Warren"
+  ],
+  "other_era": [
+   "Joel Kibble"
+  ],
+  "names": [
+   [
+    "Alvin 'Vinnie' Chea",
+    "Alvin Chea",
+    "nomination",
+    true
+   ],
+   [
+    "Alvin 'Vinny' Chea",
+    "Alvin Chea",
+    "nomination",
+    true
+   ],
+   [
+    "Alvin Chea",
+    "Alvin Chea",
+    "nomination",
+    true
+   ],
+   [
+    "Cedric Dent",
+    "Cedric Dent",
+    "nomination",
+    false
+   ],
+   [
+    "Claude McKnight",
+    "Claude McKnight",
+    "nomination",
+    true
+   ],
+   [
+    "Claude V. McKnight III",
+    "Claude McKnight",
+    "nomination",
+    true
+   ],
+   [
+    "Dave Thomas",
+    "David Thomas",
+    "nomination",
+    false
+   ],
+   [
+    "David Thomas",
+    "David Thomas",
+    "nomination",
+    false
+   ],
+   [
+    "Mark Kibble",
+    "Mark Kibble",
+    "nomination",
+    true
+   ],
+   [
+    "Merv Warren",
+    "Mervyn Warren",
+    "nomination",
+    false
+   ],
+   [
+    "Mervyn Warren",
+    "Mervyn Warren",
+    "nomination",
+    true
+   ],
+   [
+    "Joel Kibble",
+    "Joel Kibble",
+    "other",
+    false
+   ],
+   [
+    "Joey Kibble",
+    "Joel Kibble",
+    "other",
+    false
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Toni Childs": {
+  "year": 1989,
+  "type": "Solo",
+  "winner": false,
+  "search": "\"Toni Childs\"",
+  "member_search": "Toni Childs",
+  "members": [],
+  "distinctive": [],
+  "other_era": [],
+  "names": [
+   [
+    "Toni Childs",
+    "Toni Childs",
+    "nomination",
+    true
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Tracy Chapman": {
+  "year": 1989,
+  "type": "Solo",
+  "winner": true,
+  "search": "\"Tracy Chapman\"",
+  "member_search": "Tracy Chapman",
+  "members": [],
+  "distinctive": [],
+  "other_era": [],
+  "names": [
+   [
+    "Tracy Chapman",
+    "Tracy Chapman",
+    "nomination",
+    true
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Vanessa Williams": {
+  "year": 1989,
+  "type": "Solo",
+  "winner": false,
+  "search": "\"Vanessa Williams\" singer",
+  "member_search": "Vanessa Williams",
+  "members": [],
+  "distinctive": [],
+  "other_era": [],
+  "names": [
+   [
+    "Vanessa Lynn Williams",
+    "Vanessa Williams",
+    "nomination",
+    true
+   ],
+   [
+    "Vanessa Williams",
+    "Vanessa Williams",
+    "nomination",
+    true
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Indigo Girls": {
+  "year": 1990,
+  "type": "Duo",
+  "winner": false,
+  "search": "\"Indigo Girls\"",
+  "member_search": "Indigo Girls",
+  "members": [
+   "Amy Ray",
+   "Emily Saliers"
+  ],
+  "distinctive": [
+   "Emily Saliers"
+  ],
+  "other_era": [],
+  "names": [
+   [
+    "Amy Ray",
+    "Amy Ray",
+    "nomination",
+    false
+   ],
+   [
+    "Emily Saliers",
+    "Emily Saliers",
+    "nomination",
+    true
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Neneh Cherry": {
+  "year": 1990,
+  "type": "Solo",
+  "winner": false,
+  "search": "\"Neneh Cherry\"",
+  "member_search": "Neneh Cherry",
+  "members": [],
+  "distinctive": [],
+  "other_era": [],
+  "names": [
+   [
+    "Neneh Cherry",
+    "Neneh Cherry",
+    "nomination",
+    true
+   ],
+   [
+    "Neneh Karlsson",
+    "Neneh Cherry",
+    "nomination",
+    true
+   ],
+   [
+    "Neneh Mariann Karlsson",
+    "Neneh Cherry",
+    "nomination",
+    true
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Soul II Soul": {
+  "year": 1990,
+  "type": "Collective",
+  "winner": false,
+  "search": "\"Soul II Soul\"",
+  "member_search": "Soul II Soul",
+  "members": [
+   "Aitch B",
+   "Caron Wheeler",
+   "Daddae Harvey",
+   "Jazzie B",
+   "Nellee Hooper",
+   "Simon Law"
+  ],
+  "distinctive": [
+   "Aitch B",
+   "Caron Wheeler",
+   "Daddae Harvey",
+   "Jazzie B",
+   "Nellee Hooper"
+  ],
+  "other_era": [
+   "Doreen Waddell",
+   "Kym Mazelle",
+   "Lamya Al-Mugheiry",
+   "Marcia Lewis",
+   "Rose Windross",
+   "Victoria Wilson-James"
+  ],
+  "names": [
+   [
+    "Aitch B",
+    "Aitch B",
+    "nomination",
+    true
+   ],
+   [
+    "Aitch Bee",
+    "Aitch B",
+    "nomination",
+    true
+   ],
+   [
+    "DJ Aitch B",
+    "Aitch B",
+    "nomination",
+    true
+   ],
+   [
+    "Caron Melina Wheeler",
+    "Caron Wheeler",
+    "nomination",
+    true
+   ],
+   [
+    "Caron Wheeler",
+    "Caron Wheeler",
+    "nomination",
+    true
+   ],
+   [
+    "Daddae Harvey",
+    "Daddae Harvey",
+    "nomination",
+    true
+   ],
+   [
+    "Philip 'Daddae' Harvey",
+    "Daddae Harvey",
+    "nomination",
+    true
+   ],
+   [
+    "Philip Harvey",
+    "Daddae Harvey",
+    "nomination",
+    false
+   ],
+   [
+    "Beresford Romeo",
+    "Jazzie B",
+    "nomination",
+    true
+   ],
+   [
+    "Jazzie B",
+    "Jazzie B",
+    "nomination",
+    true
+   ],
+   [
+    "Trevor Beresford Romeo",
+    "Jazzie B",
+    "nomination",
+    true
+   ],
+   [
+    "Nellee Hooper",
+    "Nellee Hooper",
+    "nomination",
+    true
+   ],
+   [
+    "Nellie Hooper",
+    "Nellee Hooper",
+    "nomination",
+    true
+   ],
+   [
+    "Paul Andrew Hooper",
+    "Nellee Hooper",
+    "nomination",
+    true
+   ],
+   [
+    "Simon Law",
+    "Simon Law",
+    "nomination",
+    false
+   ],
+   [
+    "Doreen Tess Waddell",
+    "Doreen Waddell",
+    "other",
+    false
+   ],
+   [
+    "Doreen Waddell",
+    "Doreen Waddell",
+    "other",
+    false
+   ],
+   [
+    "Kym Mazelle",
+    "Kym Mazelle",
+    "other",
+    false
+   ],
+   [
+    "Kymberly Grigsby",
+    "Kym Mazelle",
+    "other",
+    false
+   ],
+   [
+    "Lamya Al-Mugheiry",
+    "Lamya Al-Mugheiry",
+    "other",
+    false
+   ],
+   [
+    "Marcia Lewis",
+    "Marcia Lewis",
+    "other",
+    false
+   ],
+   [
+    "Rose Windross",
+    "Rose Windross",
+    "other",
+    false
+   ],
+   [
+    "Victoria Wilson-James",
+    "Victoria Wilson-James",
+    "other",
+    false
+   ]
+  ],
+  "extra_queries": []
+ },
+ "Tone Loc": {
+  "year": 1990,
+  "type": "Solo",
+  "winner": false,
+  "search": "\"Tone Loc\"",
+  "member_search": "Tone Loc",
+  "members": [],
+  "distinctive": [],
+  "other_era": [],
+  "names": [
+   [
+    "Anthony Smith",
+    "Tone Loc",
+    "nomination",
+    false
+   ],
+   [
+    "Anthony T. Smith",
+    "Tone Loc",
+    "nomination",
+    false
+   ],
+   [
+    "Anthony Terrell Smith",
+    "Tone Loc",
+    "nomination",
+    true
+   ],
+   [
+    "Tone Loc",
+    "Tone Loc",
+    "nomination",
+    true
+   ]
+  ],
+  "extra_queries": []
+ }
+}

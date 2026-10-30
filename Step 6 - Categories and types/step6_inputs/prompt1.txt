@@ -1,0 +1,53 @@
+Prompt 1: own scheme (one call per agent)
+
+Before executing this prompt, review the best practices guide and any existing memos and memory, given below, as part of your brain. Where the guide and the instructions after it differ, follow the instructions.
+
+{the best practices guide, in full}
+
+You are Agent {A, B or C}, an expert qualitative analyst investigating this broad research question:
+
+What happens within groups over time during and after that group experiences recognition for early creative success?
+
+Each musical act constitutes a case. The source material contains attributed accounts drawn from articles and audiovisual sources, arranged by available source dates. These accounts may describe earlier experiences, present different perspectives, or leave important matters unclear. For solo artists, read "the group" as the artist and the people they make music with, without assuming that a stable group exists.
+
+In Step 3 you coded all 52 acts with in-vivo labels, and in Step 5 you built second-order themes from your codes, on your own, comparing the acts within and across groupings. This is Step 6: you develop categories and classify the cases. The guide covers every step of the analysis; in this step, follow its Step 6. Build categories and types of act only: linking them into a model, and bringing in theory or the literature, belong to later steps.
+
+Step 6 has three rounds. In this one you work on your own, from your own Step 5 work. In the next round the three agents' dimensions and types are pooled, without saying whose each is, and each agent judges all of them: an item stands if at least two of the three agents keep it. Data on the acts' later careers comes in only in the last round, once the shared scheme is fixed.
+
+Base your analysis on the supplied material, your codes, your themes and your memory. Do not use outside knowledge of the acts, their members or any study of them, including anything you may know about how the acts fared later: data on the acts' later careers is deliberately kept out of this round. Do not bring in facts about the music industry or its history that the material does not give, such as the eras, trends or market changes you may know of. Do not assume that a particular event caused later developments.
+
+Below are your Step 3 memo, part 1 of your Step 5 memo, your running memo as Step 5 left it, your final themes from Step 5, each with its ID, and your Step 5 summary of each act. Your folder has, for each act, its chronology with your codes and your codes alone, your labels, and your Step 5 work: your within-case themes, groupings, comparisons and final themes. Open them where you need to check a passage, an act or an earlier decision.
+
+Then:
+
+1. Group your final themes into aggregate dimensions: broader concepts that bring together themes of a kind, as the guide describes for the data structure. Each dimension names one concept in what happens in the group over time, in your own analytic words, holds at least two of your final themes, and differs clearly from your other dimensions. Name the concept itself, not a list of its themes. A theme goes into more than one dimension only when it clearly belongs to each. List the themes that fit no dimension, each with the reason. For each dimension, give its name; a one-sentence definition; its boundaries, meaning what it leaves out and how it differs from your other dimensions; and its themes, each by its ID, such as F3.
+
+2. Build types of act from your dimensions: kinds of act that share a pattern over time across the dimensions, as the guide describes under "cross the dimensions" and "keep categories processual". A type may be defined by a change over time, such as a group that turns inward after recognition and later recasts that strain as closeness, rather than by a fixed position. Where it helps, cross two dimensions into a matrix and check every cell against the acts, including cells that stay empty, and say for each empty cell whether it is possible but did not occur, or not possible. Types are ideal types, so an act may fit one, several or none. A type sets some acts apart from the others: a pattern that nearly every act shows belongs in the dimensions, not among the types. A type should hold at least three acts that fit it clearly; a pattern seen in fewer acts belongs with the misfits or the empty cells. Define types by what happens in the group: how its members relate, work and account for their success. Do not define a type by whether or when the act split, came back or stopped, by how long it lasted or how much it released, or by its later commercial or critical success: the last round sets the types against these, so they must not shape them. Check each type before you reply: if only acts that split, came back or stopped could fit it, it rests on those events however it is worded, so rework it around what happens in the group, or leave it out. A type may draw on how members talk about such events, as long as an act that never had them could fit it too. For each type, give its name; a one-sentence definition; its boundaries; the dimensions that define it, by name; and the themes that define it, by ID.
+
+3. Place each act below, written exactly as its name is given, one at a time, treating each act as a test of your types, as the guide describes under "replication logic": the types it fits and how well, clearly or partly; why, in one or two sentences; up to three Turn IDs that support the placement; and up to two that cut against it. Where an act fits no type, or fits types that should exclude each other, say so: these are the negative cases the guide asks you to examine. Weigh misfits by significance, not count: record an act that differs from a type only in detail, and examine one that contradicts a type's core idea, even if it is the only one, saying whether it marks a boundary of the type. If many acts fit badly, revise the types before you reply.
+
+4. Do not give a pattern greater importance simply because one act has more interviews, longer passages or more codes. Do not aim for any number of dimensions or types.
+
+5. Update your running memo, given below: add what this round taught you, for the later rounds and later steps, written as in your earlier entries, as the Turn ID it comes from in brackets, or "general", then the entry; revise earlier entries, by their number, where this round changed your understanding; and drop those that proved wrong or are no longer needed.
+
+Reply in this JSON format:
+
+{"dimensions": [{"dimension": "…", "definition": "…", "boundaries": "…", "themes": ["F…"]}],
+ "unplaced_themes": [{"theme": "F…", "why": "…"}],
+ "types": [{"type": "…", "definition": "…", "boundaries": "…", "dimensions": ["…"], "themes": ["F…"]}],
+ "empty_cells": [{"cell": "…", "possible": "yes | no", "why": "…"}],
+ "acts": [{"act": "…", "types": [{"type": "…", "fit": "clear | partial"}], "why": "…", "supporting": ["…"], "contrary": ["…"]}],
+ "misfits": [{"act": "…", "type": "…", "kind": "detail | core", "what": "…"}],
+ "memo": {"add": ["(Turn ID or general): …"], "revise": [{"entry": "M…", "text": "(Turn ID or general): …"}], "drop": ["M…"]}}
+
+{Your Step 3 memo, parts 1 to 3}
+
+{Part 1 of your Step 5 memo}
+
+{Your running memo: your Step 3 memo on each act and the notes you kept, with the changes you made to it in Step 5, each entry with its number}
+
+{Your final themes from Step 5, each with its ID, definition, boundaries, codes, acts, periods and Turn IDs}
+
+{For each act: its name; group or solo artist; won or nominated, and the year of its ceremony; and your Step 5 summary of it}
+
+Reply in the JSON format given above.

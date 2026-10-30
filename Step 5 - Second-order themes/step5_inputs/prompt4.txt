@@ -1,0 +1,48 @@
+Prompt 4: final themes (one call)
+
+Before executing this prompt, review the best practices guide and any existing memos and memory, given below, as part of your brain. Where the guide and the instructions after it differ, follow the instructions.
+
+{the best practices guide, in full}
+
+You are Agent {A, B or C}, an expert qualitative analyst investigating this broad research question:
+
+What happens within groups over time during and after that group experiences recognition for early creative success?
+
+Each musical act constitutes a case. The source material contains attributed accounts drawn from articles and audiovisual sources, arranged by available source dates. These accounts may describe earlier experiences, present different perspectives, or leave important matters unclear. For solo artists, read "the group" as the artist and the people they make music with, without assuming that a stable group exists.
+
+This is Step 5: you move one level of abstraction up, from your first-order codes to second-order themes, that is, concepts that describe and explain what is happening. The guide covers every step of the analysis; in this step, follow its Step 5. Build themes only: grouping themes into broader categories, sorting the acts into types and linking themes into a model all belong to later steps.
+
+Base your analysis on the supplied material, your codes and your memory. Do not use outside knowledge of the acts, their members or any study of them, including anything you may know about how the acts fared later: data on the acts' later success is deliberately kept out of this step. Do not bring in facts about the music industry or its history that the material does not give, such as the eras, trends or market changes you may know of. Do not assume that a particular event caused later developments.
+
+You now have your columns of themes: your within-case themes for each act, and one column from each of your groupings. Bring them together into your final list of second-order themes for Step 5:
+
+1. For every theme in your columns, decide whether it stands as it is, merges with another, splits, changes its scope, or is dropped, and record each decision and why, giving the themes by their IDs. One record can cover several themes that share a decision, such as the within-case themes of several acts that merge into one final theme. Keep each record short: the change, the themes and one sentence on why. These records are how the team will follow your analysis.
+
+2. Test each final theme across all {N} acts: retrieve supporting and potentially contrary passages, with their context. Keep evidence against a theme apart from too little evidence to assess it.
+
+3. Each final theme must hang together, so that the material inside it is of a kind, and must differ clearly from your other themes. Each should draw on at least two of your codes and stay specific enough to be grouped into broader categories at the next step. Each names one pattern in what happens in the group: if a theme joins several patterns, or sets two different patterns or two kinds of act side by side, split it, while a change over time, such as one account at the time and another later, counts as one pattern. Merge themes that are parts or episodes of one pattern, or the same pattern in different acts. Name the pattern itself, not a list of its parts: a name that lists several things, such as "A, B and C", usually means that the theme joins several patterns or carries its details in its name. A final theme is a pattern across acts: one found in a single act is usually a case of a broader pattern, so merge it into that pattern, or keep it only as a distinct pattern that matters for the research question, saying so in its boundaries. Keep each theme on the group, meaning its members and the people they make music with: what they go through, and their relations, roles and ways of working. Labels, the press, touring and the catalogue belong in a theme for what they do to the group, not as its subject.
+
+4. Do not aim for any number of themes. Do not link themes into a model or sort the acts into types: those belong to later steps.
+
+5. Do not give a pattern greater importance simply because one act has more interviews, longer passages or more codes.
+
+For each final theme, give its name; a one-sentence definition; its boundaries; the codes it draws on, at most 30, those that carry it best, written exactly as your labels are; the acts and periods it covers; up to five Turn IDs that best support it and up to three that cut against it; the acts where there is too little evidence to tell whether it holds; and the earlier themes it comes from, each by its ID in your columns, such as W3.2 for a within-case theme or G1.4 for a theme of grouping 1. List an earlier theme under the one final theme it went into, and under more than one only if you split it, recording the split: the script traces each final theme's evidence through these entries.
+
+Your folder has, for each act, its chronology with your codes (chronology_<act>.txt) and your codes alone (codes_<act>.csv), labels_summary.csv, and your Step 5 work so far: your within-case themes and summaries, your groupings, and your comparison records and theme column for each grouping. Open them where you need to check a passage or an earlier decision.
+
+Reply in this JSON format:
+
+{"themes": [{"theme": "…", "definition": "…", "boundaries": "…", "codes": ["…"], "acts": ["…"], "periods": ["before | around | after"],
+   "supporting": ["…"], "contrary": ["…"], "too_little_evidence": ["…"], "comes_from": ["W… | G…"]}],
+ "revisions": [{"change": "kept | merged | split | rescoped | dropped", "themes": ["W… | G…"], "result": "…", "why": "…"}],
+ "memo": {"add": ["(Turn ID or general): …"], "revise": [{"entry": "M…", "text": "(Turn ID or general): …"}], "drop": ["M…"]}}
+
+Then update your running memo with what bringing your themes together taught you, for your memo and for Step 6: add entries, written as in your earlier entries; revise earlier ones, by their number; and drop those that proved wrong or are no longer needed.
+
+{Your Step 3 memo, parts 1 to 3}
+
+{Your running memo: your Step 3 memo on each act and the notes you kept, with the changes you have made to it in Step 5, each entry with its number}
+
+{Your columns of themes: within-case (by act), then one for each grouping, each theme with its ID, definition, boundaries, codes, acts, periods and Turn IDs}
+
+Reply in the JSON format given above.

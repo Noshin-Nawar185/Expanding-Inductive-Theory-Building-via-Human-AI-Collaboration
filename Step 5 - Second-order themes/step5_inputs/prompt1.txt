@@ -1,0 +1,46 @@
+Prompt 1: within-case themes (one call per act)
+
+Before executing this prompt, review the best practices guide and any existing memos and memory, given below, as part of your brain. Where the guide and the instructions after it differ, follow the instructions.
+
+{the best practices guide, in full}
+
+You are Agent {A, B or C}, an expert qualitative analyst investigating this broad research question:
+
+What happens within groups over time during and after that group experiences recognition for early creative success?
+
+Each musical act constitutes a case. The source material contains attributed accounts drawn from articles and audiovisual sources, arranged by available source dates. These accounts may describe earlier experiences, present different perspectives, or leave important matters unclear. For solo artists, read "the group" as the artist and the people they make music with, without assuming that a stable group exists.
+
+In Step 3 you coded all 52 acts with in-vivo labels. This is Step 5: you move one level of abstraction up, from your first-order codes to second-order themes, that is, concepts that describe and explain what is happening. The guide covers every step of the analysis; in this step, follow its Step 5. Build themes only: grouping themes into broader categories, sorting the acts into types and linking themes into a model all belong to later steps.
+
+You will work through Step 5 on your own, in four stages: first each act on its own, one act per call, as in this prompt; then you sort the acts in several different ways; then you compare the acts within and across the groups that each sorting makes; and finally you bring your themes together into one list. You work from your own codes, memo and memory, and you will not see the other agents' work until the end.
+
+Base your analysis on the supplied material, your codes and your memory. Do not use outside knowledge of the act, its members or any study of them, including anything you may know about how the act fared later: data on the acts' later success is deliberately kept out of this step. Do not bring in facts about the music industry or its history that the material does not give, such as the eras, trends or market changes you may know of. Do not assume that a particular event caused later developments.
+
+Below, after your Step 3 memo and your running memo, is the chronology of the act this call is about. It holds the act's events, meaning its Best New Artist nomination (and its win, where it won), its studio albums and, for groups, its breakups and reunions, together with every turn of the act that Step 3 kept, all in date order, with your codes under each turn. Each turn's period comes from the date of the account: "before" means more than 12 months before the act's Best New Artist ceremony, "around" within 12 months either side of it, and "after" more than 12 months after it. A turn marked "looks back" is mainly about a time years before its date.
+
+Read the whole chronology first. Then:
+
+1. Draft this act's second-order themes. A theme names one pattern in what happens in the group over time, in your own analytic words, and rests on at least two of your codes in this act. If a draft theme joins several patterns, or sets two different patterns side by side, make each of them a theme of its own; a change over time, such as one account at the time and another later, counts as one pattern. Do not split one pattern into its parts, episodes or people either: a theme names a pattern that could recur in other acts, and its details belong in its definition and boundaries. Name the pattern itself, not a list of its parts: a name that lists several things, such as "A, B and C", usually means that the theme joins several patterns or carries its details in its name. As a rough guide to scale, most themes rest on between about a twentieth and a fifth of your codes in the act: a theme well above a fifth has probably joined several patterns, and one well below a twentieth may be a part or an episode of a larger one. Keep each theme on the group, meaning its members and the people they make music with: what they go through, and their relations, roles and ways of working. Labels, the press, touring and the catalogue belong in a theme for what they do to the group, not as its subject. Abstract names are fine, but each theme must stay tied to the codes and turns it rests on, so that another analyst could check it. For each theme, give its name; a one-sentence definition; its boundaries, meaning what it leaves out and how it differs from your other themes; the codes it draws on, meaning every one of your codes in this act whose turns support it, not a selection, written exactly as your labels are; the periods it concerns, taken from the periods of its turns or, for a turn that looks back, from the time it describes where the turn makes that clear; up to five Turn IDs that best support it; and up to three that cut against it, if there are any. Do not aim for a number of themes: give as many as the act supports.
+
+2. List the codes that fit none of your themes, for example because they bear little on the research question. Every one of your codes in this act should then appear at least once, in a theme or in this list. A code may feed more than one theme only when its turns support each of them.
+
+3. Write a summary of the act, of about 300 words, for comparing it with the other acts later: how the act's story unfolds over time as its accounts tell it, its themes and where they sit relative to the nomination and the act's other events, what is distinctive about it, and what stays unclear. Write it in your own words, with quotations of a few words at most. Keep it to about 300 words however much material the act has, so that every act carries the same weight when you compare them.
+
+4. Update your running memo, given below. It is your memory of the analysis: every later call of this step, and Step 6, will give it to you as you leave it, so that what you learn is not lost from one call or step to the next. It works like human memory: important information is reinforced, habits that prove wrong are pruned, and new information is added. Add what you will need when you compare the acts: patterns you expect to meet in other acts, contrasts with other acts that your memo suggests, and questions to follow. Write each new entry as the Turn ID it comes from in brackets, or "general", then the entry, as in "(2051-14): …"; the script numbers it. Revise an entry, giving its number and its new text, where this act changes it, and drop an entry, by its number, that this act shows to be wrong or no longer needed. The acts are studied side by side, so the changes you make here are made once all the acts are done, and the calls for the other acts do not see them. Do not repeat the summary.
+
+Reply in this JSON format:
+
+{"themes": [{"theme": "…", "definition": "…", "boundaries": "…", "codes": ["…"], "periods": ["before | around | after"], "supporting": ["…"], "contrary": ["…"]}],
+ "unplaced_codes": ["…"],
+ "summary": "…",
+ "memo": {"add": ["(Turn ID or general): …"], "revise": [{"entry": "M…", "text": "(Turn ID or general): …"}], "drop": ["M…"]}}
+
+{Your Step 3 memo, parts 1 to 3}
+
+{Your running memo: your Step 3 memo on each act and the notes you kept, each note with its number}
+
+Act: {name} ({group or solo artist}), Best New Artist {won or nominated} at the {year} ceremony, held on {date}. {k} interviews, {m} turns, {c} of them with codes.
+
+{The chronology: events and turns in date order. Each event shows its date, Event ID and description. Each turn shows its Turn ID, speaker, date, period, source (article or video, outlet, title), whether it looks back and any data problem, then Text, then your codes, each as label [data or own; unsure where you were unsure]: description "evidence".}
+
+Reply in the JSON format given above.

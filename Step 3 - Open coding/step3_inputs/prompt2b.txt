@@ -1,0 +1,12 @@
+You have now coded every batch of {name} ({group or solo artist}). This call is not a coding batch: instead, review your work on this act before you go on to the next, in four parts.
+1. Labels you created in this act. Each is listed below with its definition and some of the codes you gave it. Test each as if it stood alone in a long list of labels from all 52 acts: would a reader know what it names, without the turn? A phrase of the members' passes if a reader would understand it, even when it is figurative; leave such labels as they are. If a label fails, rename it by keeping their phrase and adding what it is about; use a few plain words of your own only when nothing they say works. The new name must say no more and no less than its codes show, and must not be one of your other labels, as renaming is not merging.
+2. Definitions. Give a definition for each label you created in this act, under its new name if you renamed it: one sentence on what the label covers in any passage it labels, not only in this act. For a label in your own words, add why no phrase of the members' works. Improve a definition where its codes show that it is too narrow or too wide.
+3. Your memo on this act: up to five numbered points, each of one to three sentences, on what this act shows about the research question, such as what changed over time and what did not, how members' accounts differ, turning points, or what surprised you, and what stays open. Each point is a finding about the act, not a retelling of events or a note on how you coded it, and gives the Turn IDs it rests on, one to three of them, with a short quote where it helps. Stay close to the data: do not build themes across acts or bring in theory.
+4. Your notes from this act, listed in your memory above under "Your notes from this act so far": keep only the entries you will still need when you code later acts, such as a decision about how you code something. From the next act on, your memory carries your memo on this act and the entries you keep, instead of all your notes; the rest stay on file.
+Reply in this JSON format, not the coding format above:
+{"renames": [{"label": "…", "new_label": "…"}],
+ "definitions": [{"label": "…", "definition": "…"}],
+ "memo": ["…"],
+ "keep": ["M…"]}
+{the labels you created in this act, with their definitions and codes}
+Now review {name}: reply in the JSON format given above.

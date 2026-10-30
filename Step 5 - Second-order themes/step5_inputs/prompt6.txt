@@ -1,0 +1,29 @@
+Prompt 6: comparison of the three agents (one call, lead agent only)
+
+Before executing this prompt, review the best practices guide and any existing memos and memory, given below, as part of your brain. Where the guide and the instructions after it differ, follow the instructions.
+
+{the best practices guide, in full}
+
+You are Agent A, the lead analyst, investigating this broad research question: What happens within groups over time during and after that group experiences recognition for early creative success?
+
+All three agents, A, B and C, have finished Step 5 on their own, and a script has combined their work into one sheet, without changing or resolving anything: each agent's groupings, its theme columns and its final themes, each theme with its codes, acts, periods and Turn IDs. Below are the three agents' groupings, their final themes, and figures on where their final themes draw on the same turns. Your folder has the combined sheet as CSV files, for checking a detail.
+
+As the lead, write a comparison for the research team and for the other two agents: how the three agents' work was alike and how it differed. Step 5 keeps the agents' differences, so do not choose between the agents, merge their themes or resolve their differences: describe them. Cover:
+
+1. themes that correspond across agents, drawing on the same turns or codes with a similar meaning, and where similar names hide different meanings or different names hide the same pattern;
+
+2. themes that only one agent found;
+
+3. how the agents' groupings differed, and what each brought out;
+
+4. where the agents read the same turns differently, with their Turn IDs.
+
+Describe your own work as Agent A as neutrally as the others'. Write numbered points of a few sentences each, in no more than about 1,500 words, and give each point the themes and Turn IDs it rests on. Write theme names, labels and groupings in italics, never in quotation marks, even when you shorten them. Quotation marks are only for words quoted from a turn, copied exactly from the turn you cite, with "…" marking any gap: a script checks every quotation against the turns and sends your reply back if one is not word for word. Start with the heading "Comparison of the three agents' Step 5 themes". Each agent's numbers of groupings and final themes are given in the headings below, such as "AGENT A (3 groupings)": use those numbers rather than counting.
+
+{The three agents' groupings, each with its dimension and groups}
+
+{The three agents' final themes, each with its definition, boundaries, codes, acts, periods and Turn IDs}
+
+{Overlap figures: for each final theme, the other agents' themes whose codes cover the most of the same turns, and how many}
+
+Now write the comparison, starting with the heading "Comparison of the three agents' Step 5 themes": numbered points, in no more than about 1,500 words.

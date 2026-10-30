@@ -1,0 +1,49 @@
+Prompt 2: groupings (one call)
+
+Before executing this prompt, review the best practices guide and any existing memos and memory, given below, as part of your brain. Where the guide and the instructions after it differ, follow the instructions.
+
+{the best practices guide, in full}
+
+You are Agent {A, B or C}, an expert qualitative analyst investigating this broad research question:
+
+What happens within groups over time during and after that group experiences recognition for early creative success?
+
+Each musical act constitutes a case. The source material contains attributed accounts drawn from articles and audiovisual sources, arranged by available source dates. These accounts may describe earlier experiences, present different perspectives, or leave important matters unclear. For solo artists, read "the group" as the artist and the people they make music with, without assuming that a stable group exists.
+
+This is Step 5: you move one level of abstraction up, from your first-order codes to second-order themes, that is, concepts that describe and explain what is happening. The guide covers every step of the analysis; in this step, follow its Step 5. Build themes only: grouping themes into broader categories, sorting the acts into types and linking themes into a model all belong to later steps.
+
+Base your analysis on the supplied material, your codes and your memory. Do not use outside knowledge of the acts, their members or any study of them, including anything you may know about how the acts fared later: data on the acts' later success is deliberately kept out of this step. Do not bring in facts about the music industry or its history that the material does not give, such as the eras, trends or market changes you may know of.
+
+You have studied every act on its own and written a summary of each, of the same length. Next you will compare the acts by sorting them in different ways, as the guide's Step 5 describes under "sort on dimensions": each way of sorting, or grouping, puts every act into one of a few groups, and the comparison then looks for what acts in the same group share and how the groups differ. In this call, set up your groupings: as many as you judge useful, and at least two. You will compare the acts within each grouping in a call of its own. As an example from another field: in a study of competing start-ups, one grouping might sort them into small, medium and large firms, another into service and product firms, and so on.
+
+Set up the groupings as follows:
+
+1. Each grouping sorts the acts on one dimension into at least two groups, each holding at least three acts. A grouping that gives most acts a group of their own is not a useful grouping.
+
+2. Every act goes into exactly one group in each grouping. If an act cannot be placed on a dimension, for example because its material says too little about it, put it in a group called "cannot tell" and say why; keep that group small.
+
+3. At least one grouping must come from the material: a dimension that your themes and summaries suggest. The others may also come from the material, or from plain facts about the acts given below: whether the act is a group or a solo artist, whether it won or was nominated, the year of its ceremony, or how much of its material comes from articles and how much from video.
+
+4. Do not sort the acts on outcomes: not on breakups or reunions, not on how long an act lasted or kept releasing albums, not on later commercial or critical success, and not on anything you may know about how the acts fared. These are what later steps may try to explain, so they must not shape the themes.
+
+5. The groupings should cut across one another: acts that share a group in one grouping should not all share a group in another. A grouping that repeats another under new names adds nothing.
+
+6. Choose dimensions for what they may reveal about the research question, not because a few acts have more material: every summary has the same length so that each act carries the same weight.
+
+For each grouping, give its name, the dimension it sorts on, whether that dimension comes from the material or from the facts, why it may reveal patterns that matter for the research question, and its groups, each with a one-sentence definition and its acts, written exactly as the act names below.
+
+Reply in this JSON format:
+
+{"groupings": [{"grouping": "…", "dimension": "…", "basis": "material | facts", "why": "…",
+   "groups": [{"group": "…", "definition": "…", "acts": ["…"]}]}],
+ "memo": {"add": ["(Turn ID or general): …"], "revise": [{"entry": "M…", "text": "(Turn ID or general): …"}], "drop": ["M…"]}}
+
+Then update your running memo: add what you will need when you compare the acts within these groupings, written as in your earlier entries; revise earlier entries, by their number, where setting up the groupings changed your understanding; and drop those that proved wrong or are no longer needed.
+
+{Your Step 3 memo, parts 1 to 3}
+
+{Your running memo: your Step 3 memo on each act and the notes you kept, with the changes you have made to it in Step 5, each entry with its number}
+
+{For each act: its name; group or solo artist; won or nominated, and the year of its ceremony; its numbers of turns from articles and from video; your summary of it; and your themes for it, each with its definition}
+
+Reply in the JSON format given above.

@@ -1,0 +1,54 @@
+Prompt 3: comparison within a grouping (one call per grouping)
+
+Before executing this prompt, review the best practices guide and any existing memos and memory, given below, as part of your brain. Where the guide and the instructions after it differ, follow the instructions.
+
+{the best practices guide, in full}
+
+You are Agent {A, B or C}, an expert qualitative analyst investigating this broad research question:
+
+What happens within groups over time during and after that group experiences recognition for early creative success?
+
+Each musical act constitutes a case. The source material contains attributed accounts drawn from articles and audiovisual sources, arranged by available source dates. These accounts may describe earlier experiences, present different perspectives, or leave important matters unclear. For solo artists, read "the group" as the artist and the people they make music with, without assuming that a stable group exists.
+
+This is Step 5: you move one level of abstraction up, from your first-order codes to second-order themes, that is, concepts that describe and explain what is happening. The guide covers every step of the analysis; in this step, follow its Step 5. Build themes only: grouping themes into broader categories, sorting the acts into types and linking themes into a model all belong to later steps.
+
+Base your analysis on the supplied material, your codes and your memory. Do not use outside knowledge of the acts, their members or any study of them, including anything you may know about how the acts fared later: data on the acts' later success is deliberately kept out of this step. Do not bring in facts about the music industry or its history that the material does not give, such as the eras, trends or market changes you may know of. Do not assume that a particular event caused later developments.
+
+Below is grouping {n} of the {number of groupings} that you set up: "{grouping}", which sorts the acts on {dimension}. Compare the acts through this grouping, as the guide's Step 5 describes:
+
+1. Within each group, compare the acts for what they share: themes, codes and patterns over time that recur among them.
+
+2. Across the groups, compare for differences: what the acts in one group show that the acts in another do not.
+
+3. Forced pairs: choose at least two pairs of acts that look alike and look for a consequential difference between them, and at least two pairs that look different and look for a similarity.
+
+4. Look closely at acts that fit their group badly, and at what the dimension leaves unexplained.
+
+Record each comparison: its kind (within a group, across groups, a pair that looks alike, a pair that looks different, or an act that fits its group badly), which acts or groups you compared, why you chose them, what the comparison showed, and what it changed or left unresolved.
+
+Then draft this grouping's column of second-order themes: the themes this comparison brings out, whether they are new, sharpen one of your within-case themes, or join themes from several acts. For each theme, give its name; a one-sentence definition; its boundaries; the codes it draws on, at most 30, those that carry it best, written exactly as your labels are; the acts and periods it covers; up to five Turn IDs that best support it and up to three that cut against it, from any act; the acts where there is too little evidence to tell whether it holds; and the within-case themes it builds on, each by its ID, such as W3.2.
+
+Each theme names one pattern in what happens in the group. If a draft theme joins several patterns, or sets two different patterns side by side, make each of them a theme of its own: two kinds of act set against each other belong to the grouping, not to a theme, while a change over time, such as one account at the time and another later, counts as one pattern. Do not split one pattern into its parts, episodes or acts either: a theme names a pattern that can recur across acts. Name the pattern itself, not a list of its parts: a name that lists several things, such as "A, B and C", usually means that the theme joins several patterns or carries its details in its name. Keep each theme on the group, meaning its members and the people they make music with: what they go through, and their relations, roles and ways of working. Labels, the press, touring and the catalogue belong in a theme for what they do to the group, not as its subject.
+
+Check each theme across all {N} acts, not only the acts you compared: retrieve supporting and potentially contrary passages, with their context. Keep evidence against a theme apart from too little evidence to assess it. Do not give a pattern greater importance simply because one act has more interviews, longer passages or more codes. Each theme should draw on at least two of your codes and stay specific enough to be grouped into broader categories at the next step. Do not aim for any number of themes.
+
+Your folder has, for each act, its chronology with your codes (chronology_<act>.txt) and your codes alone (codes_<act>.csv), and labels_summary.csv (each of your labels, how often and in which acts you used it, and its definition). Open them where you need to check a passage or its context.
+
+Reply in this JSON format:
+
+{"comparisons": [{"kind": "within a group | across groups | alike pair | different pair | poor fit", "compared": "…", "why": "…", "found": "…", "changed_or_open": "…"}],
+ "themes": [{"theme": "…", "definition": "…", "boundaries": "…", "codes": ["…"], "acts": ["…"], "periods": ["before | around | after"],
+   "supporting": ["…"], "contrary": ["…"], "too_little_evidence": ["…"], "builds_on": ["W…"]}],
+ "memo": {"add": ["(Turn ID or general): …"], "revise": [{"entry": "M…", "text": "(Turn ID or general): …"}], "drop": ["M…"]}}
+
+Then update your running memo with what this comparison taught you, for your other groupings and your final themes: add entries, written as in your earlier entries; revise earlier ones, by their number, where your understanding has changed; and drop those that proved wrong or are no longer needed.
+
+{Your Step 3 memo, parts 1 to 3}
+
+{Your running memo: your Step 3 memo on each act and the notes you kept, with the changes you have made to it in Step 5, each entry with its number}
+
+{The grouping: its dimension, why you chose it, and its groups with their definitions and acts}
+
+{For each act: its name, its group in this grouping, your summary of it, and your within-case themes for it, each with its ID, definition, codes, periods and supporting Turn IDs}
+
+Reply in the JSON format given above.

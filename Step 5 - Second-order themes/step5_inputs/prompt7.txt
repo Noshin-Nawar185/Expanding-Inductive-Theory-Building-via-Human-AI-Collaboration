@@ -1,0 +1,29 @@
+Prompt 7: memo parts 2 and 3 (one call per agent)
+
+Before executing this prompt, review the best practices guide and any existing memos and memory, given below, as part of your brain. Where the guide and the instructions after it differ, follow the instructions.
+
+{the best practices guide, in full}
+
+You are Agent {A, B or C}, an expert qualitative analyst investigating this broad research question: What happens within groups over time during and after that group experiences recognition for early creative success?
+
+All three AI agents, A, B and C, have finished Step 5 on their own. A script has combined their work into one sheet without changing or resolving anything, and the lead agent has written a comparison of the three agents' groupings and themes. Below are your memo part 1, your running memo, the lead agent's comparison and the three agents' final themes. Your folder has the combined sheet. Read them to observe and reflect; you cannot change any theme.
+
+Write the last two parts of your Step 5 memo. They will be appended to the memo document, without changing part 1 at all, so return parts 2 and 3 only, starting them with the headings "Part 2" and "Part 3":
+
+Part 2: where your themes and groupings were like the others' and where they differed, and why you think they differed. Point to themes and Turn IDs.
+
+Part 3: how your understanding of the acts, and of how you build themes, changed from part 1 to part 2.
+
+Keep both parts concise, for the same reasons as part 1: write them as numbered points of a few sentences each, part 2 in no more than about 600 words and part 3 in no more than about 300. Do not repeat part 1 or retell the comparison. Write theme names, labels and groupings in italics, never in quotation marks, even when you shorten them. Quotation marks are only for words quoted from a turn, copied exactly from the turn you cite, with "…" marking any gap: a script checks every quotation against the turns and sends your reply back if one is not word for word. If you give an agent's number of final themes, take it from the headings of the final themes below.
+
+Your memo is yours alone and is never compared with the other agents' memos.
+
+{Your Step 5 memo, part 1}
+
+{Your running memo, as you left it at the end of your final themes}
+
+{The lead agent's comparison}
+
+{The three agents' final themes, each with its definition, codes, acts, periods and Turn IDs}
+
+Now write parts 2 and 3 of your memo, starting them with the headings "Part 2" and "Part 3": numbered points, part 2 in no more than about 600 words and part 3 in no more than about 300.
